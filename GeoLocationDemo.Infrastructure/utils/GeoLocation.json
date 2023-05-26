@@ -1,0 +1,5282 @@
+[
+  {
+    "ZIP": 90002,
+    "LAT": 33.949099,
+    "LNG": -118.246737,
+    "City": "Los Angeles"
+  },
+  {
+    "ZIP": 90003,
+    "LAT": 33.964131,
+    "LNG": -118.272783,
+    "City": "Los Angeles"
+  },
+  {
+    "ZIP": 90004,
+    "LAT": 34.076198,
+    "LNG": -118.310722,
+    "City": "Los Angeles"
+  },
+  {
+    "ZIP": 90005,
+    "LAT": 34.059163,
+    "LNG": -118.306892,
+    "City": "Los Angeles"
+  },
+  {
+    "ZIP": 90006,
+    "LAT": 34.048041,
+    "LNG": -118.294177,
+    "City": "Los Angeles"
+  },
+  {
+    "ZIP": 90007,
+    "LAT": 34.028129,
+    "LNG": -118.284829,
+    "City": "Los Angeles"
+  },
+  {
+    "ZIP": 90008,
+    "LAT": 34.009552,
+    "LNG": -118.346724,
+    "City": "Los Angeles"
+  },
+  {
+    "ZIP": 90010,
+    "LAT": 34.062148,
+    "LNG": -118.315889,
+    "City": "Los Angeles"
+  },
+  {
+    "ZIP": 90011,
+    "LAT": 34.00709,
+    "LNG": -118.258681,
+    "City": "Los Angeles"
+  },
+  {
+    "ZIP": 90012,
+    "LAT": 34.065975,
+    "LNG": -118.238642,
+    "City": "Los Angeles"
+  },
+  {
+    "ZIP": 90013,
+    "LAT": 34.045405,
+    "LNG": -118.240454,
+    "City": "Los Angeles"
+  },
+  {
+    "ZIP": 90014,
+    "LAT": 34.043146,
+    "LNG": -118.251746,
+    "City": "Los Angeles"
+  },
+  {
+    "ZIP": 90015,
+    "LAT": 34.039378,
+    "LNG": -118.2663,
+    "City": "Los Angeles"
+  },
+  {
+    "ZIP": 90016,
+    "LAT": 34.028331,
+    "LNG": -118.354338,
+    "City": "Los Angeles"
+  },
+  {
+    "ZIP": 90017,
+    "LAT": 34.052913,
+    "LNG": -118.26434,
+    "City": "Los Angeles"
+  },
+  {
+    "ZIP": 90018,
+    "LAT": 34.028887,
+    "LNG": -118.317183,
+    "City": "Los Angeles"
+  },
+  {
+    "ZIP": 90019,
+    "LAT": 34.049841,
+    "LNG": -118.33846,
+    "City": "Los Angeles"
+  },
+  {
+    "ZIP": 90020,
+    "LAT": 34.066379,
+    "LNG": -118.30987,
+    "City": "Los Angeles"
+  },
+  {
+    "ZIP": 90021,
+    "LAT": 34.029036,
+    "LNG": -118.23787,
+    "City": "Los Angeles"
+  },
+  {
+    "ZIP": 90022,
+    "LAT": 34.023728,
+    "LNG": -118.156275,
+    "City": "Los Angeles"
+  },
+  {
+    "ZIP": 90023,
+    "LAT": 34.022502,
+    "LNG": -118.199613,
+    "City": "Los Angeles"
+  },
+  {
+    "ZIP": 90024,
+    "LAT": 34.065723,
+    "LNG": -118.434969,
+    "City": "Los Angeles"
+  },
+  {
+    "ZIP": 90025,
+    "LAT": 34.045421,
+    "LNG": -118.445873,
+    "City": "Los Angeles"
+  },
+  {
+    "ZIP": 90026,
+    "LAT": 34.080017,
+    "LNG": -118.262643,
+    "City": "Los Angeles"
+  },
+  {
+    "ZIP": 90027,
+    "LAT": 34.127194,
+    "LNG": -118.295647,
+    "City": "Los Angeles"
+  },
+  {
+    "ZIP": 90028,
+    "LAT": 34.099912,
+    "LNG": -118.326912,
+    "City": "Los Angeles"
+  },
+  {
+    "ZIP": 90029,
+    "LAT": 34.089848,
+    "LNG": -118.294661,
+    "City": "Los Angeles"
+  },
+  {
+    "ZIP": 90031,
+    "LAT": 34.085784,
+    "LNG": -118.206666,
+    "City": "Los Angeles"
+  },
+  {
+    "ZIP": 90032,
+    "LAT": 34.078195,
+    "LNG": -118.185501,
+    "City": "Los Angeles"
+  },
+  {
+    "ZIP": 90033,
+    "LAT": 34.05038,
+    "LNG": -118.211991,
+    "City": "Los Angeles"
+  },
+  {
+    "ZIP": 90034,
+    "LAT": 34.030578,
+    "LNG": -118.399613,
+    "City": "Los Angeles"
+  },
+  {
+    "ZIP": 90035,
+    "LAT": 34.051809,
+    "LNG": -118.383674,
+    "City": "Los Angeles"
+  },
+  {
+    "ZIP": 90036,
+    "LAT": 34.07041,
+    "LNG": -118.350411,
+    "City": "Los Angeles"
+  },
+  {
+    "ZIP": 90037,
+    "LAT": 34.002719,
+    "LNG": -118.287487,
+    "City": "Los Angeles"
+  },
+  {
+    "ZIP": 90038,
+    "LAT": 34.088475,
+    "LNG": -118.325527,
+    "City": "Los Angeles"
+  },
+  {
+    "ZIP": 90039,
+    "LAT": 34.111885,
+    "LNG": -118.261033,
+    "City": "Los Angeles"
+  },
+  {
+    "ZIP": 90040,
+    "LAT": 33.994523,
+    "LNG": -118.149952,
+    "City": "Los Angeles"
+  },
+  {
+    "ZIP": 90041,
+    "LAT": 34.137412,
+    "LNG": -118.207607,
+    "City": "Los Angeles"
+  },
+  {
+    "ZIP": 90042,
+    "LAT": 34.114708,
+    "LNG": -118.192098,
+    "City": "Los Angeles"
+  },
+  {
+    "ZIP": 90043,
+    "LAT": 33.988505,
+    "LNG": -118.336358,
+    "City": "Los Angeles"
+  },
+  {
+    "ZIP": 90044,
+    "LAT": 33.952725,
+    "LNG": -118.291904,
+    "City": "Los Angeles"
+  },
+  {
+    "ZIP": 90045,
+    "LAT": 33.942108,
+    "LNG": -118.417488,
+    "City": "Los Angeles"
+  },
+  {
+    "ZIP": 90046,
+    "LAT": 34.10781,
+    "LNG": -118.362247,
+    "City": "Los Angeles"
+  },
+  {
+    "ZIP": 90047,
+    "LAT": 33.953617,
+    "LNG": -118.308428,
+    "City": "Los Angeles"
+  },
+  {
+    "ZIP": 90048,
+    "LAT": 34.072924,
+    "LNG": -118.37271,
+    "City": "Los Angeles"
+  },
+  {
+    "ZIP": 90049,
+    "LAT": 34.09254,
+    "LNG": -118.491064,
+    "City": "Los Angeles"
+  },
+  {
+    "ZIP": 90056,
+    "LAT": 33.988047,
+    "LNG": -118.370361,
+    "City": "Los Angeles"
+  },
+  {
+    "ZIP": 90057,
+    "LAT": 34.061735,
+    "LNG": -118.276757,
+    "City": "Los Angeles"
+  },
+  {
+    "ZIP": 90058,
+    "LAT": 34.002844,
+    "LNG": -118.2164,
+    "City": "Los Angeles"
+  },
+  {
+    "ZIP": 90059,
+    "LAT": 33.926262,
+    "LNG": -118.249883,
+    "City": "Los Angeles"
+  },
+  {
+    "ZIP": 90061,
+    "LAT": 33.92128,
+    "LNG": -118.274186,
+    "City": "Los Angeles"
+  },
+  {
+    "ZIP": 90062,
+    "LAT": 34.003638,
+    "LNG": -118.308806,
+    "City": "Los Angeles"
+  },
+  {
+    "ZIP": 90063,
+    "LAT": 34.045105,
+    "LNG": -118.185914,
+    "City": "Los Angeles"
+  },
+  {
+    "ZIP": 90064,
+    "LAT": 34.037251,
+    "LNG": -118.423573,
+    "City": "Los Angeles"
+  },
+  {
+    "ZIP": 90065,
+    "LAT": 34.112272,
+    "LNG": -118.225496,
+    "City": "Los Angeles"
+  },
+  {
+    "ZIP": 90066,
+    "LAT": 34.002028,
+    "LNG": -118.430656,
+    "City": "Los Angeles"
+  },
+  {
+    "ZIP": 90067,
+    "LAT": 34.057597,
+    "LNG": -118.413998,
+    "City": "Los Angeles"
+  },
+  {
+    "ZIP": 90068,
+    "LAT": 34.129772,
+    "LNG": -118.330989,
+    "City": "Los Angeles"
+  },
+  {
+    "ZIP": 90069,
+    "LAT": 34.093828,
+    "LNG": -118.381697,
+    "City": "West Hollywood"
+  },
+  {
+    "ZIP": 90071,
+    "LAT": 34.052876,
+    "LNG": -118.254943,
+    "City": "Los Angeles"
+  },
+  {
+    "ZIP": 90073,
+    "LAT": 34.054534,
+    "LNG": -118.457025,
+    "City": "Los Angeles"
+  },
+  {
+    "ZIP": 90077,
+    "LAT": 34.108023,
+    "LNG": -118.456964,
+    "City": "Los Angeles"
+  },
+  {
+    "ZIP": 90079,
+    "LAT": 34.040587,
+    "LNG": -118.255404,
+    "City": "Los Angeles"
+  },
+  {
+    "ZIP": 90089,
+    "LAT": 34.020221,
+    "LNG": -118.286035,
+    "City": "Los Angeles"
+  },
+  {
+    "ZIP": 90090,
+    "LAT": 34.072862,
+    "LNG": -118.240989,
+    "City": "Los Angeles"
+  },
+  {
+    "ZIP": 90094,
+    "LAT": 33.975414,
+    "LNG": -118.41699,
+    "City": "Culver City"
+  },
+  {
+    "ZIP": 90095,
+    "LAT": 34.0712,
+    "LNG": -118.443523,
+    "City": "Los Angeles"
+  },
+  {
+    "ZIP": 90201,
+    "LAT": 33.970343,
+    "LNG": -118.171368,
+    "City": "Bell Gardens"
+  },
+  {
+    "ZIP": 90210,
+    "LAT": 34.100517,
+    "LNG": -118.414712,
+    "City": "Beverly Hills"
+  },
+  {
+    "ZIP": 90211,
+    "LAT": 34.064958,
+    "LNG": -118.382979,
+    "City": "Beverly Hills"
+  },
+  {
+    "ZIP": 90212,
+    "LAT": 34.06221,
+    "LNG": -118.401966,
+    "City": "Beverly Hills"
+  },
+  {
+    "ZIP": 90220,
+    "LAT": 33.88151,
+    "LNG": -118.234451,
+    "City": "Compton"
+  },
+  {
+    "ZIP": 90221,
+    "LAT": 33.885624,
+    "LNG": -118.205918,
+    "City": "Compton"
+  },
+  {
+    "ZIP": 90222,
+    "LAT": 33.912246,
+    "LNG": -118.236773,
+    "City": "Compton"
+  },
+  {
+    "ZIP": 90230,
+    "LAT": 33.997862,
+    "LNG": -118.393617,
+    "City": "Culver City"
+  },
+  {
+    "ZIP": 90232,
+    "LAT": 34.019323,
+    "LNG": -118.391902,
+    "City": "Culver City"
+  },
+  {
+    "ZIP": 90240,
+    "LAT": 33.955729,
+    "LNG": -118.118346,
+    "City": "Downey"
+  },
+  {
+    "ZIP": 90241,
+    "LAT": 33.940445,
+    "LNG": -118.129022,
+    "City": "Downey"
+  },
+  {
+    "ZIP": 90242,
+    "LAT": 33.921793,
+    "LNG": -118.140588,
+    "City": "Downey"
+  },
+  {
+    "ZIP": 90245,
+    "LAT": 33.91714,
+    "LNG": -118.404267,
+    "City": "El Segundo"
+  },
+  {
+    "ZIP": 90247,
+    "LAT": 33.890853,
+    "LNG": -118.297967,
+    "City": "Gardena"
+  },
+  {
+    "ZIP": 90248,
+    "LAT": 33.878432,
+    "LNG": -118.284104,
+    "City": "Gardena"
+  },
+  {
+    "ZIP": 90249,
+    "LAT": 33.90139,
+    "LNG": -118.315697,
+    "City": "Gardena"
+  },
+  {
+    "ZIP": 90250,
+    "LAT": 33.914775,
+    "LNG": -118.348083,
+    "City": "Hawthorne"
+  },
+  {
+    "ZIP": 90254,
+    "LAT": 33.864259,
+    "LNG": -118.399303,
+    "City": "Hermosa Beach"
+  },
+  {
+    "ZIP": 90255,
+    "LAT": 33.979248,
+    "LNG": -118.217438,
+    "City": "Huntington Park"
+  },
+  {
+    "ZIP": 90260,
+    "LAT": 33.88856,
+    "LNG": -118.351813,
+    "City": "Lawndale"
+  },
+  {
+    "ZIP": 90263,
+    "LAT": 34.039034,
+    "LNG": -118.707992,
+    "City": "Malibu"
+  },
+  {
+    "ZIP": 90265,
+    "LAT": 34.066117,
+    "LNG": -118.846342,
+    "City": "Malibu"
+  },
+  {
+    "ZIP": 90266,
+    "LAT": 33.889151,
+    "LNG": -118.402127,
+    "City": "Manhattan Beach"
+  },
+  {
+    "ZIP": 90270,
+    "LAT": 33.987729,
+    "LNG": -118.186597,
+    "City": "Maywood"
+  },
+  {
+    "ZIP": 90274,
+    "LAT": 33.780065,
+    "LNG": -118.372454,
+    "City": "Palos Verdes"
+  },
+  {
+    "ZIP": 90275,
+    "LAT": 33.753155,
+    "LNG": -118.367963,
+    "City": "Rancho Palos Verdes"
+  },
+  {
+    "ZIP": 90277,
+    "LAT": 33.830006,
+    "LNG": -118.387124,
+    "City": "Redondo Beach"
+  },
+  {
+    "ZIP": 90278,
+    "LAT": 33.873215,
+    "LNG": -118.37036,
+    "City": "Redondo Beach"
+  },
+  {
+    "ZIP": 90280,
+    "LAT": 33.944159,
+    "LNG": -118.192761,
+    "City": "South Gate"
+  },
+  {
+    "ZIP": 90290,
+    "LAT": 34.107753,
+    "LNG": -118.616219,
+    "City": "Topanga"
+  },
+  {
+    "ZIP": 90291,
+    "LAT": 33.993396,
+    "LNG": -118.465193,
+    "City": "Venice"
+  },
+  {
+    "ZIP": 90301,
+    "LAT": 33.956526,
+    "LNG": -118.358654,
+    "City": "Inglewood"
+  },
+  {
+    "ZIP": 90302,
+    "LAT": 33.975332,
+    "LNG": -118.355252,
+    "City": "Inglewood"
+  },
+  {
+    "ZIP": 90303,
+    "LAT": 33.939766,
+    "LNG": -118.331085,
+    "City": "Inglewood"
+  },
+  {
+    "ZIP": 90304,
+    "LAT": 33.937886,
+    "LNG": -118.358559,
+    "City": "Inglewood"
+  },
+  {
+    "ZIP": 90305,
+    "LAT": 33.95889,
+    "LNG": -118.330548,
+    "City": "Inglewood"
+  },
+  {
+    "ZIP": 90401,
+    "LAT": 34.013666,
+    "LNG": -118.49375,
+    "City": "Santa Monica"
+  },
+  {
+    "ZIP": 90402,
+    "LAT": 34.034666,
+    "LNG": -118.504039,
+    "City": "Santa Monica"
+  },
+  {
+    "ZIP": 90403,
+    "LAT": 34.030755,
+    "LNG": -118.492101,
+    "City": "Santa Monica"
+  },
+  {
+    "ZIP": 90404,
+    "LAT": 34.026608,
+    "LNG": -118.473643,
+    "City": "Santa Monica"
+  },
+  {
+    "ZIP": 90405,
+    "LAT": 34.011312,
+    "LNG": -118.469762,
+    "City": "Santa Monica"
+  },
+  {
+    "ZIP": 90501,
+    "LAT": 33.833744,
+    "LNG": -118.314022,
+    "City": "Torrance"
+  },
+  {
+    "ZIP": 90502,
+    "LAT": 33.833181,
+    "LNG": -118.292062,
+    "City": "Torrance"
+  },
+  {
+    "ZIP": 90503,
+    "LAT": 33.840398,
+    "LNG": -118.353715,
+    "City": "Torrance"
+  },
+  {
+    "ZIP": 90504,
+    "LAT": 33.867257,
+    "LNG": -118.330794,
+    "City": "Torrance"
+  },
+  {
+    "ZIP": 90505,
+    "LAT": 33.807882,
+    "LNG": -118.347957,
+    "City": "Torrance"
+  },
+  {
+    "ZIP": 90601,
+    "LAT": 34.00784,
+    "LNG": -118.030271,
+    "City": "Whittier"
+  },
+  {
+    "ZIP": 90602,
+    "LAT": 33.972782,
+    "LNG": -118.022066,
+    "City": "Whittier"
+  },
+  {
+    "ZIP": 90603,
+    "LAT": 33.945555,
+    "LNG": -117.990719,
+    "City": "Whittier"
+  },
+  {
+    "ZIP": 90604,
+    "LAT": 33.927691,
+    "LNG": -118.013828,
+    "City": "Whittier"
+  },
+  {
+    "ZIP": 90605,
+    "LAT": 33.950295,
+    "LNG": -118.024352,
+    "City": "Whittier"
+  },
+  {
+    "ZIP": 90606,
+    "LAT": 33.977272,
+    "LNG": -118.066363,
+    "City": "Whittier"
+  },
+  {
+    "ZIP": 90620,
+    "LAT": 33.845223,
+    "LNG": -118.015292,
+    "City": "Buena Park"
+  },
+  {
+    "ZIP": 90621,
+    "LAT": 33.874224,
+    "LNG": -117.993368,
+    "City": "Buena Park"
+  },
+  {
+    "ZIP": 90623,
+    "LAT": 33.850616,
+    "LNG": -118.039565,
+    "City": "La Palma"
+  },
+  {
+    "ZIP": 90630,
+    "LAT": 33.818477,
+    "LNG": -118.038307,
+    "City": "Cypress"
+  },
+  {
+    "ZIP": 90631,
+    "LAT": 33.942708,
+    "LNG": -117.952483,
+    "City": "La Habra"
+  },
+  {
+    "ZIP": 90638,
+    "LAT": 33.902045,
+    "LNG": -118.008961,
+    "City": "La Mirada"
+  },
+  {
+    "ZIP": 90640,
+    "LAT": 34.015444,
+    "LNG": -118.111012,
+    "City": "Montebello"
+  },
+  {
+    "ZIP": 90650,
+    "LAT": 33.906956,
+    "LNG": -118.08264,
+    "City": "Norwalk"
+  },
+  {
+    "ZIP": 90660,
+    "LAT": 33.989524,
+    "LNG": -118.089299,
+    "City": "Pico Rivera"
+  },
+  {
+    "ZIP": 90670,
+    "LAT": 33.933565,
+    "LNG": -118.062611,
+    "City": "Santa Fe Springs"
+  },
+  {
+    "ZIP": 90680,
+    "LAT": 33.801191,
+    "LNG": -117.994904,
+    "City": "Stanton"
+  },
+  {
+    "ZIP": 90703,
+    "LAT": 33.867743,
+    "LNG": -118.069472,
+    "City": "Cerritos"
+  },
+  {
+    "ZIP": 90704,
+    "LAT": 33.399248,
+    "LNG": -118.435601,
+    "City": "Avalon"
+  },
+  {
+    "ZIP": 90706,
+    "LAT": 33.887821,
+    "LNG": -118.12725,
+    "City": "Bellflower"
+  },
+  {
+    "ZIP": 90712,
+    "LAT": 33.849034,
+    "LNG": -118.147902,
+    "City": "Lakewood"
+  },
+  {
+    "ZIP": 90713,
+    "LAT": 33.847989,
+    "LNG": -118.112601,
+    "City": "Lakewood"
+  },
+  {
+    "ZIP": 90715,
+    "LAT": 33.841027,
+    "LNG": -118.079141,
+    "City": "Lakewood"
+  },
+  {
+    "ZIP": 90716,
+    "LAT": 33.830482,
+    "LNG": -118.073451,
+    "City": "Hawaiian Gardens"
+  },
+  {
+    "ZIP": 90717,
+    "LAT": 33.793809,
+    "LNG": -118.31717,
+    "City": "Lomita"
+  },
+  {
+    "ZIP": 90720,
+    "LAT": 33.795012,
+    "LNG": -118.062692,
+    "City": "Los Alamitos"
+  },
+  {
+    "ZIP": 90723,
+    "LAT": 33.898883,
+    "LNG": -118.166629,
+    "City": "Paramount"
+  },
+  {
+    "ZIP": 90731,
+    "LAT": 33.731442,
+    "LNG": -118.278869,
+    "City": "San Pedro"
+  },
+  {
+    "ZIP": 90732,
+    "LAT": 33.74212,
+    "LNG": -118.312878,
+    "City": "San Pedro"
+  },
+  {
+    "ZIP": 90740,
+    "LAT": 33.758405,
+    "LNG": -118.075043,
+    "City": "Seal Beach"
+  },
+  {
+    "ZIP": 90742,
+    "LAT": 33.716666,
+    "LNG": -118.076906,
+    "City": "Sunset Beach"
+  },
+  {
+    "ZIP": 90743,
+    "LAT": 33.726516,
+    "LNG": -118.090327,
+    "City": "Surfside"
+  },
+  {
+    "ZIP": 90745,
+    "LAT": 33.822725,
+    "LNG": -118.264109,
+    "City": "Carson"
+  },
+  {
+    "ZIP": 90746,
+    "LAT": 33.859171,
+    "LNG": -118.252272,
+    "City": "Carson"
+  },
+  {
+    "ZIP": 90747,
+    "LAT": 33.8629,
+    "LNG": -118.251318,
+    "City": "Carson"
+  },
+  {
+    "ZIP": 90755,
+    "LAT": 33.803431,
+    "LNG": -118.16977,
+    "City": "Signal Hill"
+  },
+  {
+    "ZIP": 90802,
+    "LAT": 33.745762,
+    "LNG": -118.208042,
+    "City": "Long Beach"
+  },
+  {
+    "ZIP": 90803,
+    "LAT": 33.756289,
+    "LNG": -118.130636,
+    "City": "Long Beach"
+  },
+  {
+    "ZIP": 90804,
+    "LAT": 33.781686,
+    "LNG": -118.148365,
+    "City": "Long Beach"
+  },
+  {
+    "ZIP": 90805,
+    "LAT": 33.864617,
+    "LNG": -118.180567,
+    "City": "Long Beach"
+  },
+  {
+    "ZIP": 90806,
+    "LAT": 33.805401,
+    "LNG": -118.187701,
+    "City": "Long Beach"
+  },
+  {
+    "ZIP": 90807,
+    "LAT": 33.82774,
+    "LNG": -118.17482,
+    "City": "Long Beach"
+  },
+  {
+    "ZIP": 90808,
+    "LAT": 33.823943,
+    "LNG": -118.111335,
+    "City": "Long Beach"
+  },
+  {
+    "ZIP": 90810,
+    "LAT": 33.819814,
+    "LNG": -118.222416,
+    "City": "Long Beach"
+  },
+  {
+    "ZIP": 90813,
+    "LAT": 33.782259,
+    "LNG": -118.196793,
+    "City": "Long Beach"
+  },
+  {
+    "ZIP": 90814,
+    "LAT": 33.771616,
+    "LNG": -118.143631,
+    "City": "Long Beach"
+  },
+  {
+    "ZIP": 90815,
+    "LAT": 33.794348,
+    "LNG": -118.116391,
+    "City": "Long Beach"
+  },
+  {
+    "ZIP": 90822,
+    "LAT": 33.778436,
+    "LNG": -118.118648,
+    "City": "Long Beach"
+  },
+  {
+    "ZIP": 90831,
+    "LAT": 33.768334,
+    "LNG": -118.201636,
+    "City": "Long Beach"
+  },
+  {
+    "ZIP": 91001,
+    "LAT": 34.194489,
+    "LNG": -118.138263,
+    "City": "Altadena"
+  },
+  {
+    "ZIP": 91006,
+    "LAT": 34.136258,
+    "LNG": -118.026704,
+    "City": "Arcadia"
+  },
+  {
+    "ZIP": 91007,
+    "LAT": 34.128284,
+    "LNG": -118.047732,
+    "City": "Arcadia"
+  },
+  {
+    "ZIP": 91008,
+    "LAT": 34.153159,
+    "LNG": -117.968818,
+    "City": "Bradbury"
+  },
+  {
+    "ZIP": 91010,
+    "LAT": 34.141586,
+    "LNG": -117.957627,
+    "City": "Duarte"
+  },
+  {
+    "ZIP": 91011,
+    "LAT": 34.222119,
+    "LNG": -118.205306,
+    "City": "La Cañada Flintridge"
+  },
+  {
+    "ZIP": 91016,
+    "LAT": 34.1528,
+    "LNG": -118.000482,
+    "City": "Monrovia"
+  },
+  {
+    "ZIP": 91024,
+    "LAT": 34.168771,
+    "LNG": -118.050216,
+    "City": "Sierra Madre"
+  },
+  {
+    "ZIP": 91030,
+    "LAT": 34.108957,
+    "LNG": -118.156615,
+    "City": "South Pasadena"
+  },
+  {
+    "ZIP": 91042,
+    "LAT": 34.322618,
+    "LNG": -118.23757,
+    "City": "Tujunga"
+  },
+  {
+    "ZIP": 91101,
+    "LAT": 34.146671,
+    "LNG": -118.139455,
+    "City": "Pasadena"
+  },
+  {
+    "ZIP": 91103,
+    "LAT": 34.169538,
+    "LNG": -118.164941,
+    "City": "Pasadena"
+  },
+  {
+    "ZIP": 91104,
+    "LAT": 34.165356,
+    "LNG": -118.123751,
+    "City": "Pasadena"
+  },
+  {
+    "ZIP": 91105,
+    "LAT": 34.13946,
+    "LNG": -118.166649,
+    "City": "Pasadena"
+  },
+  {
+    "ZIP": 91106,
+    "LAT": 34.139402,
+    "LNG": -118.128658,
+    "City": "Pasadena"
+  },
+  {
+    "ZIP": 91107,
+    "LAT": 34.155533,
+    "LNG": -118.086178,
+    "City": "Pasadena"
+  },
+  {
+    "ZIP": 91108,
+    "LAT": 34.122671,
+    "LNG": -118.112911,
+    "City": "San Marino"
+  },
+  {
+    "ZIP": 91201,
+    "LAT": 34.17051,
+    "LNG": -118.289463,
+    "City": "Glendale"
+  },
+  {
+    "ZIP": 91202,
+    "LAT": 34.168366,
+    "LNG": -118.267771,
+    "City": "Glendale"
+  },
+  {
+    "ZIP": 91203,
+    "LAT": 34.153338,
+    "LNG": -118.262974,
+    "City": "Glendale"
+  },
+  {
+    "ZIP": 91204,
+    "LAT": 34.136194,
+    "LNG": -118.260934,
+    "City": "Glendale"
+  },
+  {
+    "ZIP": 91205,
+    "LAT": 34.13658,
+    "LNG": -118.245839,
+    "City": "Glendale"
+  },
+  {
+    "ZIP": 91206,
+    "LAT": 34.160359,
+    "LNG": -118.213769,
+    "City": "Glendale"
+  },
+  {
+    "ZIP": 91207,
+    "LAT": 34.181293,
+    "LNG": -118.260277,
+    "City": "Glendale"
+  },
+  {
+    "ZIP": 91208,
+    "LAT": 34.185666,
+    "LNG": -118.239494,
+    "City": "Glendale"
+  },
+  {
+    "ZIP": 91210,
+    "LAT": 34.144557,
+    "LNG": -118.256507,
+    "City": "Glendale"
+  },
+  {
+    "ZIP": 91301,
+    "LAT": 34.123286,
+    "LNG": -118.758541,
+    "City": "Agoura Hills"
+  },
+  {
+    "ZIP": 91302,
+    "LAT": 34.123305,
+    "LNG": -118.671025,
+    "City": "Calabasas"
+  },
+  {
+    "ZIP": 91316,
+    "LAT": 34.160236,
+    "LNG": -118.515472,
+    "City": "Encino"
+  },
+  {
+    "ZIP": 91320,
+    "LAT": 34.175969,
+    "LNG": -118.945127,
+    "City": "Newbury Park"
+  },
+  {
+    "ZIP": 91326,
+    "LAT": 34.281486,
+    "LNG": -118.556005,
+    "City": "Porter Ranch"
+  },
+  {
+    "ZIP": 91340,
+    "LAT": 34.286687,
+    "LNG": -118.43508,
+    "City": "San Fernando"
+  },
+  {
+    "ZIP": 91343,
+    "LAT": 34.237912,
+    "LNG": -118.482306,
+    "City": "North Hills"
+  },
+  {
+    "ZIP": 91350,
+    "LAT": 34.440891,
+    "LNG": -118.501747,
+    "City": "Santa Clarita"
+  },
+  {
+    "ZIP": 91351,
+    "LAT": 34.441596,
+    "LNG": -118.448109,
+    "City": "Canyon Country"
+  },
+  {
+    "ZIP": 91354,
+    "LAT": 34.465755,
+    "LNG": -118.553789,
+    "City": "Valencia"
+  },
+  {
+    "ZIP": 91355,
+    "LAT": 34.439855,
+    "LNG": -118.644401,
+    "City": "Valencia"
+  },
+  {
+    "ZIP": 91356,
+    "LAT": 34.155097,
+    "LNG": -118.547553,
+    "City": "Los Angeles"
+  },
+  {
+    "ZIP": 91360,
+    "LAT": 34.212805,
+    "LNG": -118.882179,
+    "City": "Thousand Oaks"
+  },
+  {
+    "ZIP": 91361,
+    "LAT": 34.136077,
+    "LNG": -118.888919,
+    "City": "Westlake Village"
+  },
+  {
+    "ZIP": 91362,
+    "LAT": 34.193326,
+    "LNG": -118.818684,
+    "City": "Thousand Oaks"
+  },
+  {
+    "ZIP": 91367,
+    "LAT": 34.177311,
+    "LNG": -118.615704,
+    "City": "Los Angeles"
+  },
+  {
+    "ZIP": 91377,
+    "LAT": 34.184975,
+    "LNG": -118.766918,
+    "City": "Oak Park"
+  },
+  {
+    "ZIP": 91381,
+    "LAT": 34.384697,
+    "LNG": -118.647244,
+    "City": "Stevenson Ranch"
+  },
+  {
+    "ZIP": 91384,
+    "LAT": 34.506627,
+    "LNG": -118.699048,
+    "City": "Castaic"
+  },
+  {
+    "ZIP": 91387,
+    "LAT": 34.402509,
+    "LNG": -118.363427,
+    "City": "Canyon Country"
+  },
+  {
+    "ZIP": 91390,
+    "LAT": 34.545587,
+    "LNG": -118.420095,
+    "City": "Santa Clarita"
+  },
+  {
+    "ZIP": 91401,
+    "LAT": 34.178483,
+    "LNG": -118.431791,
+    "City": "Van Nuys"
+  },
+  {
+    "ZIP": 91403,
+    "LAT": 34.147149,
+    "LNG": -118.463365,
+    "City": "Sherman Oaks"
+  },
+  {
+    "ZIP": 91405,
+    "LAT": 34.199824,
+    "LNG": -118.447609,
+    "City": "Van Nuys"
+  },
+  {
+    "ZIP": 91406,
+    "LAT": 34.195685,
+    "LNG": -118.490752,
+    "City": "Van Nuys"
+  },
+  {
+    "ZIP": 91411,
+    "LAT": 34.178522,
+    "LNG": -118.459234,
+    "City": "Van Nuys"
+  },
+  {
+    "ZIP": 91423,
+    "LAT": 34.148617,
+    "LNG": -118.433298,
+    "City": "Sherman Oaks"
+  },
+  {
+    "ZIP": 91436,
+    "LAT": 34.149588,
+    "LNG": -118.489708,
+    "City": "Encino"
+  },
+  {
+    "ZIP": 91501,
+    "LAT": 34.2044,
+    "LNG": -118.287527,
+    "City": "Burbank"
+  },
+  {
+    "ZIP": 91502,
+    "LAT": 34.176817,
+    "LNG": -118.309323,
+    "City": "Burbank"
+  },
+  {
+    "ZIP": 91504,
+    "LAT": 34.204568,
+    "LNG": -118.326365,
+    "City": "Burbank"
+  },
+  {
+    "ZIP": 91505,
+    "LAT": 34.173885,
+    "LNG": -118.346937,
+    "City": "Burbank"
+  },
+  {
+    "ZIP": 91506,
+    "LAT": 34.169706,
+    "LNG": -118.323548,
+    "City": "Burbank"
+  },
+  {
+    "ZIP": 91601,
+    "LAT": 34.1692,
+    "LNG": -118.372498,
+    "City": "Los Angeles"
+  },
+  {
+    "ZIP": 91606,
+    "LAT": 34.185767,
+    "LNG": -118.388323,
+    "City": "Burbank"
+  },
+  {
+    "ZIP": 91607,
+    "LAT": 34.165783,
+    "LNG": -118.399795,
+    "City": "Valley Village"
+  },
+  {
+    "ZIP": 91608,
+    "LAT": 34.138761,
+    "LNG": -118.350933,
+    "City": "Universal City"
+  },
+  {
+    "ZIP": 91701,
+    "LAT": 34.137564,
+    "LNG": -117.599945,
+    "City": "Rancho Cucamonga"
+  },
+  {
+    "ZIP": 91702,
+    "LAT": 34.280333,
+    "LNG": -117.866141,
+    "City": "Azusa"
+  },
+  {
+    "ZIP": 91706,
+    "LAT": 34.09741,
+    "LNG": -117.968269,
+    "City": "Baldwin Park"
+  },
+  {
+    "ZIP": 91708,
+    "LAT": 33.952902,
+    "LNG": -117.639325,
+    "City": "Chino"
+  },
+  {
+    "ZIP": 91709,
+    "LAT": 33.963723,
+    "LNG": -117.738596,
+    "City": "Chino Hills"
+  },
+  {
+    "ZIP": 91710,
+    "LAT": 34.004468,
+    "LNG": -117.684697,
+    "City": "Chino"
+  },
+  {
+    "ZIP": 91711,
+    "LAT": 34.128066,
+    "LNG": -117.714773,
+    "City": "Claremont"
+  },
+  {
+    "ZIP": 91722,
+    "LAT": 34.097345,
+    "LNG": -117.906736,
+    "City": "Covina"
+  },
+  {
+    "ZIP": 91723,
+    "LAT": 34.084747,
+    "LNG": -117.886844,
+    "City": "Covina"
+  },
+  {
+    "ZIP": 91724,
+    "LAT": 34.080444,
+    "LNG": -117.854734,
+    "City": "Covina"
+  },
+  {
+    "ZIP": 91730,
+    "LAT": 34.10097,
+    "LNG": -117.57882,
+    "City": "Rancho Cucamonga"
+  },
+  {
+    "ZIP": 91731,
+    "LAT": 34.078573,
+    "LNG": -118.043456,
+    "City": "El Monte"
+  },
+  {
+    "ZIP": 91732,
+    "LAT": 34.07342,
+    "LNG": -118.015345,
+    "City": "El Monte"
+  },
+  {
+    "ZIP": 91733,
+    "LAT": 34.046243,
+    "LNG": -118.053748,
+    "City": "South El Monte"
+  },
+  {
+    "ZIP": 91737,
+    "LAT": 34.152583,
+    "LNG": -117.577707,
+    "City": "Rancho Cucamonga"
+  },
+  {
+    "ZIP": 91739,
+    "LAT": 34.172754,
+    "LNG": -117.521243,
+    "City": "Rancho Cucamonga"
+  },
+  {
+    "ZIP": 91740,
+    "LAT": 34.119367,
+    "LNG": -117.855054,
+    "City": "Glendora"
+  },
+  {
+    "ZIP": 91741,
+    "LAT": 34.156529,
+    "LNG": -117.841605,
+    "City": "Glendora"
+  },
+  {
+    "ZIP": 91744,
+    "LAT": 34.031415,
+    "LNG": -117.93647,
+    "City": "La Puente"
+  },
+  {
+    "ZIP": 91745,
+    "LAT": 33.999005,
+    "LNG": -117.972146,
+    "City": "Hacienda Heights"
+  },
+  {
+    "ZIP": 91746,
+    "LAT": 34.044416,
+    "LNG": -117.985366,
+    "City": "La Puente"
+  },
+  {
+    "ZIP": 91748,
+    "LAT": 33.974883,
+    "LNG": -117.900676,
+    "City": "Rowland Heights"
+  },
+  {
+    "ZIP": 91750,
+    "LAT": 34.18001,
+    "LNG": -117.773939,
+    "City": "La Verne"
+  },
+  {
+    "ZIP": 91752,
+    "LAT": 33.996484,
+    "LNG": -117.531269,
+    "City": "Jurupa Valley"
+  },
+  {
+    "ZIP": 91754,
+    "LAT": 34.052922,
+    "LNG": -118.143465,
+    "City": "Monterey Park"
+  },
+  {
+    "ZIP": 91755,
+    "LAT": 34.050965,
+    "LNG": -118.114394,
+    "City": "Monterey Park"
+  },
+  {
+    "ZIP": 91759,
+    "LAT": 34.263636,
+    "LNG": -117.69947,
+    "City": "Mount Baldy, California"
+  },
+  {
+    "ZIP": 91761,
+    "LAT": 34.035602,
+    "LNG": -117.591528,
+    "City": "Ontario"
+  },
+  {
+    "ZIP": 91762,
+    "LAT": 34.05941,
+    "LNG": -117.674011,
+    "City": "Ontario"
+  },
+  {
+    "ZIP": 91763,
+    "LAT": 34.072329,
+    "LNG": -117.698315,
+    "City": "Montclair"
+  },
+  {
+    "ZIP": 91764,
+    "LAT": 34.074087,
+    "LNG": -117.605618,
+    "City": "Ontario"
+  },
+  {
+    "ZIP": 91765,
+    "LAT": 33.98627,
+    "LNG": -117.821282,
+    "City": "Diamond Bar"
+  },
+  {
+    "ZIP": 91766,
+    "LAT": 34.042286,
+    "LNG": -117.756106,
+    "City": "Pomona"
+  },
+  {
+    "ZIP": 91767,
+    "LAT": 34.083086,
+    "LNG": -117.737997,
+    "City": "Pomona"
+  },
+  {
+    "ZIP": 91768,
+    "LAT": 34.063516,
+    "LNG": -117.790379,
+    "City": "Pomona"
+  },
+  {
+    "ZIP": 91770,
+    "LAT": 34.065493,
+    "LNG": -118.084529,
+    "City": "Rosemead"
+  },
+  {
+    "ZIP": 91773,
+    "LAT": 34.110186,
+    "LNG": -117.81039,
+    "City": "San Dimas"
+  },
+  {
+    "ZIP": 91775,
+    "LAT": 34.115273,
+    "LNG": -118.088266,
+    "City": "San Gabriel"
+  },
+  {
+    "ZIP": 91776,
+    "LAT": 34.090776,
+    "LNG": -118.095091,
+    "City": "San Gabriel"
+  },
+  {
+    "ZIP": 91780,
+    "LAT": 34.102077,
+    "LNG": -118.057754,
+    "City": "Temple City"
+  },
+  {
+    "ZIP": 91784,
+    "LAT": 34.141146,
+    "LNG": -117.655583,
+    "City": "Upland"
+  },
+  {
+    "ZIP": 91786,
+    "LAT": 34.105282,
+    "LNG": -117.662035,
+    "City": "Upland"
+  },
+  {
+    "ZIP": 91789,
+    "LAT": 34.018195,
+    "LNG": -117.854821,
+    "City": "Walnut"
+  },
+  {
+    "ZIP": 91790,
+    "LAT": 34.066964,
+    "LNG": -117.937007,
+    "City": "West Covina"
+  },
+  {
+    "ZIP": 91791,
+    "LAT": 34.061624,
+    "LNG": -117.892235,
+    "City": "West Covina"
+  },
+  {
+    "ZIP": 91792,
+    "LAT": 34.022581,
+    "LNG": -117.902359,
+    "City": "West Covina"
+  },
+  {
+    "ZIP": 91801,
+    "LAT": 34.090728,
+    "LNG": -118.127527,
+    "City": "Alhambra"
+  },
+  {
+    "ZIP": 91803,
+    "LAT": 34.074736,
+    "LNG": -118.145959,
+    "City": "Alhambra"
+  },
+  {
+    "ZIP": 91901,
+    "LAT": 32.808563,
+    "LNG": -116.710076,
+    "City": "Alpine"
+  },
+  {
+    "ZIP": 91902,
+    "LAT": 32.665762,
+    "LNG": -117.018657,
+    "City": "Bonita"
+  },
+  {
+    "ZIP": 91905,
+    "LAT": 32.67807,
+    "LNG": -116.306851,
+    "City": "Boulevard"
+  },
+  {
+    "ZIP": 91906,
+    "LAT": 32.654821,
+    "LNG": -116.465541,
+    "City": "Campo"
+  },
+  {
+    "ZIP": 91910,
+    "LAT": 32.637868,
+    "LNG": -117.058031,
+    "City": "Chula Vista"
+  },
+  {
+    "ZIP": 91911,
+    "LAT": 32.608185,
+    "LNG": -117.054512,
+    "City": "Chula Vista"
+  },
+  {
+    "ZIP": 91913,
+    "LAT": 32.619459,
+    "LNG": -116.98582,
+    "City": "Chula Vista"
+  },
+  {
+    "ZIP": 91914,
+    "LAT": 32.674004,
+    "LNG": -116.943932,
+    "City": "Chula Vista"
+  },
+  {
+    "ZIP": 91915,
+    "LAT": 32.623185,
+    "LNG": -116.949053,
+    "City": "Chula Vista"
+  },
+  {
+    "ZIP": 91916,
+    "LAT": 32.887989,
+    "LNG": -116.621354,
+    "City": "Descanso"
+  },
+  {
+    "ZIP": 91917,
+    "LAT": 32.608865,
+    "LNG": -116.71966,
+    "City": "Dulzura"
+  },
+  {
+    "ZIP": 91931,
+    "LAT": 32.846363,
+    "LNG": -116.557729,
+    "City": "Guatay"
+  },
+  {
+    "ZIP": 91932,
+    "LAT": 32.573755,
+    "LNG": -117.120872,
+    "City": "Imperial Beach"
+  },
+  {
+    "ZIP": 91934,
+    "LAT": 32.648992,
+    "LNG": -116.152565,
+    "City": "Jacumba"
+  },
+  {
+    "ZIP": 91935,
+    "LAT": 32.721919,
+    "LNG": -116.788204,
+    "City": "Jamul"
+  },
+  {
+    "ZIP": 91941,
+    "LAT": 32.759333,
+    "LNG": -116.997247,
+    "City": "La Mesa"
+  },
+  {
+    "ZIP": 91942,
+    "LAT": 32.777999,
+    "LNG": -117.021511,
+    "City": "La Mesa"
+  },
+  {
+    "ZIP": 91945,
+    "LAT": 32.733168,
+    "LNG": -117.034176,
+    "City": "Lemon Grove"
+  },
+  {
+    "ZIP": 91948,
+    "LAT": 32.866646,
+    "LNG": -116.448325,
+    "City": "Julian"
+  },
+  {
+    "ZIP": 91950,
+    "LAT": 32.670646,
+    "LNG": -117.094668,
+    "City": "National City"
+  },
+  {
+    "ZIP": 91962,
+    "LAT": 32.735124,
+    "LNG": -116.415161,
+    "City": "Pine Valley"
+  },
+  {
+    "ZIP": 91963,
+    "LAT": 32.626231,
+    "LNG": -116.61002,
+    "City": "Potrero"
+  },
+  {
+    "ZIP": 91977,
+    "LAT": 32.726237,
+    "LNG": -116.994318,
+    "City": "Spring Valley"
+  },
+  {
+    "ZIP": 91978,
+    "LAT": 32.724154,
+    "LNG": -116.940093,
+    "City": "Spring Valley"
+  },
+  {
+    "ZIP": 91980,
+    "LAT": 32.588866,
+    "LNG": -116.619172,
+    "City": "Tecate"
+  },
+  {
+    "ZIP": 92003,
+    "LAT": 33.285274,
+    "LNG": -117.197777,
+    "City": "Bonsall"
+  },
+  {
+    "ZIP": 92004,
+    "LAT": 33.142077,
+    "LNG": -116.106046,
+    "City": "Borrego Springs"
+  },
+  {
+    "ZIP": 92007,
+    "LAT": 33.02325,
+    "LNG": -117.274923,
+    "City": "Cardiff-by-the-Sea"
+  },
+  {
+    "ZIP": 92008,
+    "LAT": 33.147294,
+    "LNG": -117.322181,
+    "City": "Carlsbad"
+  },
+  {
+    "ZIP": 92009,
+    "LAT": 33.09547,
+    "LNG": -117.243882,
+    "City": "Carlsbad"
+  },
+  {
+    "ZIP": 92010,
+    "LAT": 33.1585,
+    "LNG": -117.277163,
+    "City": "Carlsbad"
+  },
+  {
+    "ZIP": 92011,
+    "LAT": 33.107582,
+    "LNG": -117.292182,
+    "City": "Carlsbad"
+  },
+  {
+    "ZIP": 92014,
+    "LAT": 32.963199,
+    "LNG": -117.250309,
+    "City": "Del Mar"
+  },
+  {
+    "ZIP": 92019,
+    "LAT": 32.776012,
+    "LNG": -116.880634,
+    "City": "El Cajon"
+  },
+  {
+    "ZIP": 92020,
+    "LAT": 32.795508,
+    "LNG": -116.969747,
+    "City": "El Cajon"
+  },
+  {
+    "ZIP": 92021,
+    "LAT": 32.838798,
+    "LNG": -116.869956,
+    "City": "El Cajon"
+  },
+  {
+    "ZIP": 92024,
+    "LAT": 33.056022,
+    "LNG": -117.2599,
+    "City": "Encinitas"
+  },
+  {
+    "ZIP": 92025,
+    "LAT": 33.102005,
+    "LNG": -117.080419,
+    "City": "Escondido"
+  },
+  {
+    "ZIP": 92026,
+    "LAT": 33.212444,
+    "LNG": -117.116098,
+    "City": "Escondido"
+  },
+  {
+    "ZIP": 92027,
+    "LAT": 33.131156,
+    "LNG": -116.976997,
+    "City": "Escondido"
+  },
+  {
+    "ZIP": 92028,
+    "LAT": 33.390477,
+    "LNG": -117.209427,
+    "City": "Fallbrook"
+  },
+  {
+    "ZIP": 92029,
+    "LAT": 33.0824,
+    "LNG": -117.127641,
+    "City": "Escondido"
+  },
+  {
+    "ZIP": 92036,
+    "LAT": 33.022474,
+    "LNG": -116.493688,
+    "City": "Julian"
+  },
+  {
+    "ZIP": 92040,
+    "LAT": 32.908915,
+    "LNG": -116.891975,
+    "City": "Lakeside"
+  },
+  {
+    "ZIP": 92054,
+    "LAT": 33.195534,
+    "LNG": -117.354538,
+    "City": "Oceanside"
+  },
+  {
+    "ZIP": 92055,
+    "LAT": 33.387723,
+    "LNG": -117.444758,
+    "City": "Camp Pendleton South"
+  },
+  {
+    "ZIP": 92056,
+    "LAT": 33.201242,
+    "LNG": -117.296984,
+    "City": "Oceanside"
+  },
+  {
+    "ZIP": 92057,
+    "LAT": 33.254619,
+    "LNG": -117.283341,
+    "City": "Oceanside"
+  },
+  {
+    "ZIP": 92058,
+    "LAT": 33.343438,
+    "LNG": -117.31725,
+    "City": "Oceanside"
+  },
+  {
+    "ZIP": 92059,
+    "LAT": 33.376467,
+    "LNG": -117.066121,
+    "City": "Pala"
+  },
+  {
+    "ZIP": 92061,
+    "LAT": 33.298504,
+    "LNG": -116.924783,
+    "City": "Pauma Valley"
+  },
+  {
+    "ZIP": 92064,
+    "LAT": 32.983606,
+    "LNG": -117.019035,
+    "City": "Poway"
+  },
+  {
+    "ZIP": 92066,
+    "LAT": 33.219365,
+    "LNG": -116.535247,
+    "City": "Ranchita"
+  },
+  {
+    "ZIP": 92067,
+    "LAT": 33.020908,
+    "LNG": -117.190346,
+    "City": "Rancho Santa Fe"
+  },
+  {
+    "ZIP": 92069,
+    "LAT": 33.170775,
+    "LNG": -117.158676,
+    "City": "San Marcos"
+  },
+  {
+    "ZIP": 92070,
+    "LAT": 33.14709,
+    "LNG": -116.717453,
+    "City": "Santa Ysabel"
+  },
+  {
+    "ZIP": 92071,
+    "LAT": 32.852358,
+    "LNG": -116.987842,
+    "City": "Santee"
+  },
+  {
+    "ZIP": 92075,
+    "LAT": 32.997248,
+    "LNG": -117.26058,
+    "City": "Solana Beach"
+  },
+  {
+    "ZIP": 92078,
+    "LAT": 33.117154,
+    "LNG": -117.180627,
+    "City": "San Marcos"
+  },
+  {
+    "ZIP": 92081,
+    "LAT": 33.164374,
+    "LNG": -117.24027,
+    "City": "Vista"
+  },
+  {
+    "ZIP": 92082,
+    "LAT": 33.253548,
+    "LNG": -117.003366,
+    "City": "Valley Center"
+  },
+  {
+    "ZIP": 92083,
+    "LAT": 33.19784,
+    "LNG": -117.248203,
+    "City": "Vista"
+  },
+  {
+    "ZIP": 92084,
+    "LAT": 33.219935,
+    "LNG": -117.202606,
+    "City": "Vista"
+  },
+  {
+    "ZIP": 92086,
+    "LAT": 33.323221,
+    "LNG": -116.66593,
+    "City": "Warner Springs"
+  },
+  {
+    "ZIP": 92091,
+    "LAT": 33.015927,
+    "LNG": -117.243517,
+    "City": "Rancho Santa Fe"
+  },
+  {
+    "ZIP": 92101,
+    "LAT": 32.724103,
+    "LNG": -117.170912,
+    "City": "San Diego"
+  },
+  {
+    "ZIP": 92102,
+    "LAT": 32.71622,
+    "LNG": -117.117057,
+    "City": "San Diego"
+  },
+  {
+    "ZIP": 92103,
+    "LAT": 32.747415,
+    "LNG": -117.166883,
+    "City": "San Diego"
+  },
+  {
+    "ZIP": 92104,
+    "LAT": 32.741501,
+    "LNG": -117.127948,
+    "City": "San Diego"
+  },
+  {
+    "ZIP": 92105,
+    "LAT": 32.737827,
+    "LNG": -117.092673,
+    "City": "San Diego"
+  },
+  {
+    "ZIP": 92106,
+    "LAT": 32.710818,
+    "LNG": -117.237613,
+    "City": "San Diego"
+  },
+  {
+    "ZIP": 92107,
+    "LAT": 32.739055,
+    "LNG": -117.245404,
+    "City": "San Diego"
+  },
+  {
+    "ZIP": 92108,
+    "LAT": 32.774046,
+    "LNG": -117.142454,
+    "City": "San Diego"
+  },
+  {
+    "ZIP": 92109,
+    "LAT": 32.786772,
+    "LNG": -117.234207,
+    "City": "San Diego"
+  },
+  {
+    "ZIP": 92110,
+    "LAT": 32.765244,
+    "LNG": -117.200391,
+    "City": "San Diego"
+  },
+  {
+    "ZIP": 92111,
+    "LAT": 32.806476,
+    "LNG": -117.168879,
+    "City": "San Diego"
+  },
+  {
+    "ZIP": 92113,
+    "LAT": 32.696716,
+    "LNG": -117.117881,
+    "City": "San Diego"
+  },
+  {
+    "ZIP": 92114,
+    "LAT": 32.707756,
+    "LNG": -117.055095,
+    "City": "San Diego"
+  },
+  {
+    "ZIP": 92115,
+    "LAT": 32.764998,
+    "LNG": -117.073641,
+    "City": "San Diego"
+  },
+  {
+    "ZIP": 92116,
+    "LAT": 32.764971,
+    "LNG": -117.123145,
+    "City": "San Diego"
+  },
+  {
+    "ZIP": 92117,
+    "LAT": 32.824572,
+    "LNG": -117.199518,
+    "City": "San Diego"
+  },
+  {
+    "ZIP": 92118,
+    "LAT": 32.699234,
+    "LNG": -117.209642,
+    "City": "Coronado"
+  },
+  {
+    "ZIP": 92119,
+    "LAT": 32.817888,
+    "LNG": -117.031956,
+    "City": "San Diego"
+  },
+  {
+    "ZIP": 92120,
+    "LAT": 32.794714,
+    "LNG": -117.071764,
+    "City": "San Diego"
+  },
+  {
+    "ZIP": 92121,
+    "LAT": 32.899592,
+    "LNG": -117.201203,
+    "City": "San Diego"
+  },
+  {
+    "ZIP": 92122,
+    "LAT": 32.861727,
+    "LNG": -117.171224,
+    "City": "San Diego"
+  },
+  {
+    "ZIP": 92123,
+    "LAT": 32.806794,
+    "LNG": -117.13493,
+    "City": "San Diego"
+  },
+  {
+    "ZIP": 92124,
+    "LAT": 32.823766,
+    "LNG": -117.092378,
+    "City": "San Diego"
+  },
+  {
+    "ZIP": 92126,
+    "LAT": 32.908449,
+    "LNG": -117.14138,
+    "City": "San Diego"
+  },
+  {
+    "ZIP": 92127,
+    "LAT": 33.011833,
+    "LNG": -117.132686,
+    "City": "San Diego"
+  },
+  {
+    "ZIP": 92128,
+    "LAT": 32.999818,
+    "LNG": -117.071808,
+    "City": "San Diego"
+  },
+  {
+    "ZIP": 92129,
+    "LAT": 32.96692,
+    "LNG": -117.126158,
+    "City": "San Diego"
+  },
+  {
+    "ZIP": 92130,
+    "LAT": 32.945791,
+    "LNG": -117.214366,
+    "City": "San Diego"
+  },
+  {
+    "ZIP": 92131,
+    "LAT": 32.88607,
+    "LNG": -117.085982,
+    "City": "San Diego"
+  },
+  {
+    "ZIP": 92132,
+    "LAT": 32.713608,
+    "LNG": -117.172089,
+    "City": "San Diego"
+  },
+  {
+    "ZIP": 92134,
+    "LAT": 32.724223,
+    "LNG": -117.146587,
+    "City": "San Diego"
+  },
+  {
+    "ZIP": 92135,
+    "LAT": 32.697543,
+    "LNG": -117.192775,
+    "City": "San Diego"
+  },
+  {
+    "ZIP": 92139,
+    "LAT": 32.679888,
+    "LNG": -117.04889,
+    "City": "San Diego"
+  },
+  {
+    "ZIP": 92140,
+    "LAT": 32.739496,
+    "LNG": -117.197401,
+    "City": "San Diego"
+  },
+  {
+    "ZIP": 92145,
+    "LAT": 32.930554,
+    "LNG": -117.008063,
+    "City": "San Diego"
+  },
+  {
+    "ZIP": 92147,
+    "LAT": 32.72488,
+    "LNG": -117.219962,
+    "City": "San Diego"
+  },
+  {
+    "ZIP": 92154,
+    "LAT": 32.557022,
+    "LNG": -117.006214,
+    "City": "San Diego"
+  },
+  {
+    "ZIP": 92155,
+    "LAT": 32.674984,
+    "LNG": -117.161726,
+    "City": "San Diego"
+  },
+  {
+    "ZIP": 92173,
+    "LAT": 32.553021,
+    "LNG": -117.042454,
+    "City": "San Ysidro"
+  },
+  {
+    "ZIP": 92201,
+    "LAT": 33.710984,
+    "LNG": -116.204844,
+    "City": "Indio"
+  },
+  {
+    "ZIP": 92203,
+    "LAT": 33.753959,
+    "LNG": -116.246487,
+    "City": "Indio"
+  },
+  {
+    "ZIP": 92210,
+    "LAT": 33.692217,
+    "LNG": -116.341248,
+    "City": "Indian Wells"
+  },
+  {
+    "ZIP": 92211,
+    "LAT": 33.765401,
+    "LNG": -116.334205,
+    "City": "Palm Desert"
+  },
+  {
+    "ZIP": 92220,
+    "LAT": 33.948948,
+    "LNG": -116.832362,
+    "City": "Banning"
+  },
+  {
+    "ZIP": 92222,
+    "LAT": 32.785826,
+    "LNG": -114.545506,
+    "City": "Winterhaven"
+  },
+  {
+    "ZIP": 92223,
+    "LAT": 33.948255,
+    "LNG": -116.987839,
+    "City": "Beaumont"
+  },
+  {
+    "ZIP": 92225,
+    "LAT": 33.736458,
+    "LNG": -114.687973,
+    "City": "Blythe"
+  },
+  {
+    "ZIP": 92227,
+    "LAT": 32.990121,
+    "LNG": -115.358757,
+    "City": "Brawley"
+  },
+  {
+    "ZIP": 92230,
+    "LAT": 33.910412,
+    "LNG": -116.765723,
+    "City": "Cabazon"
+  },
+  {
+    "ZIP": 92231,
+    "LAT": 32.687552,
+    "LNG": -115.541028,
+    "City": "Calexico"
+  },
+  {
+    "ZIP": 92233,
+    "LAT": 33.172881,
+    "LNG": -115.553769,
+    "City": "Calipatria"
+  },
+  {
+    "ZIP": 92234,
+    "LAT": 33.818256,
+    "LNG": -116.466743,
+    "City": "Cathedral City"
+  },
+  {
+    "ZIP": 92236,
+    "LAT": 33.686145,
+    "LNG": -116.172918,
+    "City": "Coachella"
+  },
+  {
+    "ZIP": 92239,
+    "LAT": 33.762149,
+    "LNG": -115.4661,
+    "City": "Desert Center"
+  },
+  {
+    "ZIP": 92240,
+    "LAT": 33.95154,
+    "LNG": -116.520104,
+    "City": "Desert Hot Springs"
+  },
+  {
+    "ZIP": 92241,
+    "LAT": 33.842584,
+    "LNG": -116.2929,
+    "City": "Desert Hot Springs"
+  },
+  {
+    "ZIP": 92242,
+    "LAT": 34.163216,
+    "LNG": -114.319121,
+    "City": "Earp"
+  },
+  {
+    "ZIP": 92243,
+    "LAT": 32.770197,
+    "LNG": -115.59859,
+    "City": "El Centro"
+  },
+  {
+    "ZIP": 92249,
+    "LAT": 32.725583,
+    "LNG": -115.47268,
+    "City": "Heber"
+  },
+  {
+    "ZIP": 92250,
+    "LAT": 32.777241,
+    "LNG": -115.127641,
+    "City": "Holtville"
+  },
+  {
+    "ZIP": 92251,
+    "LAT": 32.881449,
+    "LNG": -115.675459,
+    "City": "Imperial"
+  },
+  {
+    "ZIP": 92252,
+    "LAT": 34.168333,
+    "LNG": -116.288431,
+    "City": "Joshua Tree"
+  },
+  {
+    "ZIP": 92253,
+    "LAT": 33.641767,
+    "LNG": -116.273943,
+    "City": "La Quinta"
+  },
+  {
+    "ZIP": 92254,
+    "LAT": 33.543835,
+    "LNG": -115.993906,
+    "City": "Mecca"
+  },
+  {
+    "ZIP": 92256,
+    "LAT": 34.077059,
+    "LNG": -116.606626,
+    "City": "Morongo Valley"
+  },
+  {
+    "ZIP": 92257,
+    "LAT": 33.294274,
+    "LNG": -115.296227,
+    "City": "Niland"
+  },
+  {
+    "ZIP": 92258,
+    "LAT": 33.915839,
+    "LNG": -116.559873,
+    "City": "North Palm Springs"
+  },
+  {
+    "ZIP": 92259,
+    "LAT": 32.737705,
+    "LNG": -115.9322,
+    "City": "Ocotillo"
+  },
+  {
+    "ZIP": 92260,
+    "LAT": 33.708012,
+    "LNG": -116.403627,
+    "City": "Palm Desert"
+  },
+  {
+    "ZIP": 92262,
+    "LAT": 33.860925,
+    "LNG": -116.566176,
+    "City": "Palm Springs"
+  },
+  {
+    "ZIP": 92264,
+    "LAT": 33.708592,
+    "LNG": -116.497622,
+    "City": "Palm Springs"
+  },
+  {
+    "ZIP": 92266,
+    "LAT": 33.345027,
+    "LNG": -114.915942,
+    "City": "Palo Verde"
+  },
+  {
+    "ZIP": 92267,
+    "LAT": 34.273755,
+    "LNG": -114.196525,
+    "City": "Parker Dam"
+  },
+  {
+    "ZIP": 92268,
+    "LAT": 34.222079,
+    "LNG": -116.564222,
+    "City": "Pioneertown"
+  },
+  {
+    "ZIP": 92270,
+    "LAT": 33.768584,
+    "LNG": -116.429988,
+    "City": "Rancho Mirage"
+  },
+  {
+    "ZIP": 92273,
+    "LAT": 32.817225,
+    "LNG": -115.700076,
+    "City": "Seeley"
+  },
+  {
+    "ZIP": 92274,
+    "LAT": 33.460512,
+    "LNG": -116.084589,
+    "City": "Thermal"
+  },
+  {
+    "ZIP": 92275,
+    "LAT": 33.292095,
+    "LNG": -115.844166,
+    "City": "Salton City"
+  },
+  {
+    "ZIP": 92276,
+    "LAT": 33.82233,
+    "LNG": -116.364238,
+    "City": "Thousand Palms"
+  },
+  {
+    "ZIP": 92277,
+    "LAT": 34.141358,
+    "LNG": -115.621168,
+    "City": "Twentynine Palms"
+  },
+  {
+    "ZIP": 92278,
+    "LAT": 34.229973,
+    "LNG": -116.055053,
+    "City": "Twentynine Palms"
+  },
+  {
+    "ZIP": 92280,
+    "LAT": 34.112956,
+    "LNG": -114.633391,
+    "City": "Vidal"
+  },
+  {
+    "ZIP": 92281,
+    "LAT": 33.051757,
+    "LNG": -115.608752,
+    "City": "Westmorland"
+  },
+  {
+    "ZIP": 92283,
+    "LAT": 32.891546,
+    "LNG": -114.772943,
+    "City": "Winterhaven"
+  },
+  {
+    "ZIP": 92284,
+    "LAT": 34.185894,
+    "LNG": -116.432416,
+    "City": "Yucca Valley"
+  },
+  {
+    "ZIP": 92285,
+    "LAT": 34.340222,
+    "LNG": -116.540435,
+    "City": "Landers"
+  },
+  {
+    "ZIP": 92301,
+    "LAT": 34.585234,
+    "LNG": -117.453724,
+    "City": "Adelanto"
+  },
+  {
+    "ZIP": 92304,
+    "LAT": 34.541483,
+    "LNG": -115.644609,
+    "City": "Amboy"
+  },
+  {
+    "ZIP": 92305,
+    "LAT": 34.141671,
+    "LNG": -116.817981,
+    "City": "Angelus Oaks"
+  },
+  {
+    "ZIP": 92307,
+    "LAT": 34.571218,
+    "LNG": -117.133073,
+    "City": "Apple Valley"
+  },
+  {
+    "ZIP": 92308,
+    "LAT": 34.424366,
+    "LNG": -117.161295,
+    "City": "Apple Valley"
+  },
+  {
+    "ZIP": 92309,
+    "LAT": 35.332155,
+    "LNG": -116.038586,
+    "City": "Baker"
+  },
+  {
+    "ZIP": 92310,
+    "LAT": 35.26146,
+    "LNG": -116.690324,
+    "City": "Fort Irwin"
+  },
+  {
+    "ZIP": 92311,
+    "LAT": 34.980294,
+    "LNG": -116.964449,
+    "City": "Barstow"
+  },
+  {
+    "ZIP": 92313,
+    "LAT": 34.031011,
+    "LNG": -117.312929,
+    "City": "Grand Terrace"
+  },
+  {
+    "ZIP": 92314,
+    "LAT": 34.261092,
+    "LNG": -116.809496,
+    "City": "Big Bear City"
+  },
+  {
+    "ZIP": 92315,
+    "LAT": 34.232796,
+    "LNG": -116.902863,
+    "City": "Big Bear Lake"
+  },
+  {
+    "ZIP": 92316,
+    "LAT": 34.059306,
+    "LNG": -117.390768,
+    "City": "Bloomington"
+  },
+  {
+    "ZIP": 92320,
+    "LAT": 33.990372,
+    "LNG": -117.052255,
+    "City": "Calimesa"
+  },
+  {
+    "ZIP": 92321,
+    "LAT": 34.253816,
+    "LNG": -117.150891,
+    "City": "Cedar Glen"
+  },
+  {
+    "ZIP": 92322,
+    "LAT": 34.254361,
+    "LNG": -117.326453,
+    "City": "Cedarpines Park"
+  },
+  {
+    "ZIP": 92324,
+    "LAT": 34.02452,
+    "LNG": -117.289255,
+    "City": "Colton"
+  },
+  {
+    "ZIP": 92325,
+    "LAT": 34.243482,
+    "LNG": -117.281304,
+    "City": "Crestline"
+  },
+  {
+    "ZIP": 92327,
+    "LAT": 34.863585,
+    "LNG": -116.862059,
+    "City": "Daggett"
+  },
+  {
+    "ZIP": 92332,
+    "LAT": 34.912426,
+    "LNG": -115.342092,
+    "City": "Essex"
+  },
+  {
+    "ZIP": 92333,
+    "LAT": 34.270601,
+    "LNG": -116.949309,
+    "City": "Fawnskin"
+  },
+  {
+    "ZIP": 92335,
+    "LAT": 34.085972,
+    "LNG": -117.464597,
+    "City": "Fontana"
+  },
+  {
+    "ZIP": 92336,
+    "LAT": 34.147718,
+    "LNG": -117.464506,
+    "City": "Fontana"
+  },
+  {
+    "ZIP": 92337,
+    "LAT": 34.049809,
+    "LNG": -117.470613,
+    "City": "Fontana"
+  },
+  {
+    "ZIP": 92338,
+    "LAT": 34.782699,
+    "LNG": -116.190564,
+    "City": "Ludlow"
+  },
+  {
+    "ZIP": 92339,
+    "LAT": 34.093661,
+    "LNG": -116.936222,
+    "City": "Forest Falls"
+  },
+  {
+    "ZIP": 92341,
+    "LAT": 34.236643,
+    "LNG": -117.062838,
+    "City": "Green Valley Lake"
+  },
+  {
+    "ZIP": 92342,
+    "LAT": 34.757047,
+    "LNG": -117.350142,
+    "City": "Helendale"
+  },
+  {
+    "ZIP": 92344,
+    "LAT": 34.391145,
+    "LNG": -117.405722,
+    "City": "Hesperia"
+  },
+  {
+    "ZIP": 92345,
+    "LAT": 34.376159,
+    "LNG": -117.294397,
+    "City": "Hesperia"
+  },
+  {
+    "ZIP": 92346,
+    "LAT": 34.126779,
+    "LNG": -117.183104,
+    "City": "Highland"
+  },
+  {
+    "ZIP": 92347,
+    "LAT": 34.957406,
+    "LNG": -117.219606,
+    "City": "Hinkley"
+  },
+  {
+    "ZIP": 92352,
+    "LAT": 34.259971,
+    "LNG": -117.199381,
+    "City": "Lake Arrowhead"
+  },
+  {
+    "ZIP": 92354,
+    "LAT": 34.051177,
+    "LNG": -117.248563,
+    "City": "Loma Linda"
+  },
+  {
+    "ZIP": 92356,
+    "LAT": 34.510646,
+    "LNG": -116.896718,
+    "City": "Lucerne Valley"
+  },
+  {
+    "ZIP": 92358,
+    "LAT": 34.259272,
+    "LNG": -117.520971,
+    "City": "Lytle Creek"
+  },
+  {
+    "ZIP": 92359,
+    "LAT": 34.083016,
+    "LNG": -117.073317,
+    "City": "Mentone"
+  },
+  {
+    "ZIP": 92363,
+    "LAT": 34.894366,
+    "LNG": -114.640335,
+    "City": "Needles"
+  },
+  {
+    "ZIP": 92364,
+    "LAT": 35.34042,
+    "LNG": -115.426224,
+    "City": "Nipton"
+  },
+  {
+    "ZIP": 92365,
+    "LAT": 34.899991,
+    "LNG": -116.654532,
+    "City": "Newberry Springs"
+  },
+  {
+    "ZIP": 92368,
+    "LAT": 34.650629,
+    "LNG": -117.321326,
+    "City": "Oro Grande"
+  },
+  {
+    "ZIP": 92371,
+    "LAT": 34.442625,
+    "LNG": -117.541815,
+    "City": "Phelan"
+  },
+  {
+    "ZIP": 92372,
+    "LAT": 34.447894,
+    "LNG": -117.623946,
+    "City": "Pinon Hills"
+  },
+  {
+    "ZIP": 92373,
+    "LAT": 34.011953,
+    "LNG": -117.159699,
+    "City": "Redlands"
+  },
+  {
+    "ZIP": 92374,
+    "LAT": 34.067146,
+    "LNG": -117.171885,
+    "City": "Redlands"
+  },
+  {
+    "ZIP": 92376,
+    "LAT": 34.111605,
+    "LNG": -117.377406,
+    "City": "Rialto"
+  },
+  {
+    "ZIP": 92377,
+    "LAT": 34.157763,
+    "LNG": -117.405966,
+    "City": "Rialto"
+  },
+  {
+    "ZIP": 92378,
+    "LAT": 34.226083,
+    "LNG": -117.225931,
+    "City": "Rimforest"
+  },
+  {
+    "ZIP": 92382,
+    "LAT": 34.205287,
+    "LNG": -117.117403,
+    "City": "Running Springs"
+  },
+  {
+    "ZIP": 92384,
+    "LAT": 36.007706,
+    "LNG": -116.178478,
+    "City": "Shoshone"
+  },
+  {
+    "ZIP": 92385,
+    "LAT": 34.21474,
+    "LNG": -117.192326,
+    "City": "Skyforest"
+  },
+  {
+    "ZIP": 92386,
+    "LAT": 34.237229,
+    "LNG": -116.827695,
+    "City": "Sugarloaf"
+  },
+  {
+    "ZIP": 92389,
+    "LAT": 35.900961,
+    "LNG": -116.186357,
+    "City": "Tecopa"
+  },
+  {
+    "ZIP": 92391,
+    "LAT": 34.237898,
+    "LNG": -117.234788,
+    "City": "Twin Peaks"
+  },
+  {
+    "ZIP": 92392,
+    "LAT": 34.480247,
+    "LNG": -117.408184,
+    "City": "Victorville"
+  },
+  {
+    "ZIP": 92394,
+    "LAT": 34.556111,
+    "LNG": -117.353632,
+    "City": "Victorville"
+  },
+  {
+    "ZIP": 92395,
+    "LAT": 34.501472,
+    "LNG": -117.292048,
+    "City": "Victorville"
+  },
+  {
+    "ZIP": 92397,
+    "LAT": 34.374009,
+    "LNG": -117.628429,
+    "City": "Wrightwood"
+  },
+  {
+    "ZIP": 92398,
+    "LAT": 34.91588,
+    "LNG": -116.865561,
+    "City": "Yermo"
+  },
+  {
+    "ZIP": 92399,
+    "LAT": 34.032301,
+    "LNG": -117.010574,
+    "City": "Yucaipa"
+  },
+  {
+    "ZIP": 92401,
+    "LAT": 34.104794,
+    "LNG": -117.29215,
+    "City": "San Bernardino"
+  },
+  {
+    "ZIP": 92404,
+    "LAT": 34.177083,
+    "LNG": -117.254763,
+    "City": "San Bernardino"
+  },
+  {
+    "ZIP": 92405,
+    "LAT": 34.144618,
+    "LNG": -117.301301,
+    "City": "San Bernardino"
+  },
+  {
+    "ZIP": 92407,
+    "LAT": 34.212433,
+    "LNG": -117.381239,
+    "City": "San Bernardino"
+  },
+  {
+    "ZIP": 92408,
+    "LAT": 34.083458,
+    "LNG": -117.270016,
+    "City": "San Bernardino"
+  },
+  {
+    "ZIP": 92410,
+    "LAT": 34.107379,
+    "LNG": -117.297547,
+    "City": "San Bernardino"
+  },
+  {
+    "ZIP": 92411,
+    "LAT": 34.122501,
+    "LNG": -117.320138,
+    "City": "San Bernardino"
+  },
+  {
+    "ZIP": 92501,
+    "LAT": 33.99504,
+    "LNG": -117.373184,
+    "City": "Riverside"
+  },
+  {
+    "ZIP": 92503,
+    "LAT": 33.882579,
+    "LNG": -117.442303,
+    "City": "Riverside"
+  },
+  {
+    "ZIP": 92504,
+    "LAT": 33.903134,
+    "LNG": -117.398044,
+    "City": "Riverside"
+  },
+  {
+    "ZIP": 92505,
+    "LAT": 33.936193,
+    "LNG": -117.493881,
+    "City": "Riverside"
+  },
+  {
+    "ZIP": 92506,
+    "LAT": 33.934335,
+    "LNG": -117.367319,
+    "City": "Riverside"
+  },
+  {
+    "ZIP": 92507,
+    "LAT": 33.970847,
+    "LNG": -117.32512,
+    "City": "Riverside"
+  },
+  {
+    "ZIP": 92508,
+    "LAT": 33.891133,
+    "LNG": -117.326749,
+    "City": "Riverside"
+  },
+  {
+    "ZIP": 92509,
+    "LAT": 34.003266,
+    "LNG": -117.442004,
+    "City": "Jurupa Valley"
+  },
+  {
+    "ZIP": 92530,
+    "LAT": 33.649528,
+    "LNG": -117.376774,
+    "City": "Lake Elsinore"
+  },
+  {
+    "ZIP": 92532,
+    "LAT": 33.692673,
+    "LNG": -117.302957,
+    "City": "Lake Elsinore"
+  },
+  {
+    "ZIP": 92536,
+    "LAT": 33.492391,
+    "LNG": -116.837955,
+    "City": "Aguanga"
+  },
+  {
+    "ZIP": 92539,
+    "LAT": 33.527867,
+    "LNG": -116.64762,
+    "City": "Anza"
+  },
+  {
+    "ZIP": 92543,
+    "LAT": 33.667301,
+    "LNG": -116.963506,
+    "City": "Hemet"
+  },
+  {
+    "ZIP": 92544,
+    "LAT": 33.648169,
+    "LNG": -116.895308,
+    "City": "Hemet"
+  },
+  {
+    "ZIP": 92545,
+    "LAT": 33.729853,
+    "LNG": -117.03406,
+    "City": "Hemet"
+  },
+  {
+    "ZIP": 92548,
+    "LAT": 33.758663,
+    "LNG": -117.109484,
+    "City": "Homeland"
+  },
+  {
+    "ZIP": 92551,
+    "LAT": 33.88274,
+    "LNG": -117.224878,
+    "City": "Moreno Valley"
+  },
+  {
+    "ZIP": 92553,
+    "LAT": 33.923381,
+    "LNG": -117.244837,
+    "City": "Moreno Valley"
+  },
+  {
+    "ZIP": 92555,
+    "LAT": 33.889702,
+    "LNG": -117.113427,
+    "City": "Moreno Valley"
+  },
+  {
+    "ZIP": 92557,
+    "LAT": 33.97216,
+    "LNG": -117.258409,
+    "City": "Moreno Valley"
+  },
+  {
+    "ZIP": 92561,
+    "LAT": 33.637201,
+    "LNG": -116.627212,
+    "City": "Mountain Center"
+  },
+  {
+    "ZIP": 92562,
+    "LAT": 33.547613,
+    "LNG": -117.34404,
+    "City": "Murrieta"
+  },
+  {
+    "ZIP": 92563,
+    "LAT": 33.580016,
+    "LNG": -117.14736,
+    "City": "Murrieta"
+  },
+  {
+    "ZIP": 92567,
+    "LAT": 33.810743,
+    "LNG": -117.105415,
+    "City": "Nuevo"
+  },
+  {
+    "ZIP": 92570,
+    "LAT": 33.787292,
+    "LNG": -117.320673,
+    "City": "Perris"
+  },
+  {
+    "ZIP": 92571,
+    "LAT": 33.828396,
+    "LNG": -117.20766,
+    "City": "Perris"
+  },
+  {
+    "ZIP": 92582,
+    "LAT": 33.807607,
+    "LNG": -117.015163,
+    "City": "San Jacinto"
+  },
+  {
+    "ZIP": 92583,
+    "LAT": 33.795196,
+    "LNG": -116.932856,
+    "City": "San Jacinto"
+  },
+  {
+    "ZIP": 92584,
+    "LAT": 33.652675,
+    "LNG": -117.173568,
+    "City": "Menifee"
+  },
+  {
+    "ZIP": 92585,
+    "LAT": 33.746707,
+    "LNG": -117.172142,
+    "City": "Menifee"
+  },
+  {
+    "ZIP": 92586,
+    "LAT": 33.708982,
+    "LNG": -117.198853,
+    "City": "Menifee"
+  },
+  {
+    "ZIP": 92587,
+    "LAT": 33.694019,
+    "LNG": -117.250341,
+    "City": "Menifee"
+  },
+  {
+    "ZIP": 92590,
+    "LAT": 33.482811,
+    "LNG": -117.226126,
+    "City": "Temecula"
+  },
+  {
+    "ZIP": 92591,
+    "LAT": 33.535277,
+    "LNG": -117.104791,
+    "City": "Temecula"
+  },
+  {
+    "ZIP": 92592,
+    "LAT": 33.511228,
+    "LNG": -117.042396,
+    "City": "Temecula"
+  },
+  {
+    "ZIP": 92595,
+    "LAT": 33.617844,
+    "LNG": -117.259304,
+    "City": "Wildomar"
+  },
+  {
+    "ZIP": 92596,
+    "LAT": 33.665848,
+    "LNG": -117.04966,
+    "City": "Winchester"
+  },
+  {
+    "ZIP": 92602,
+    "LAT": 33.754048,
+    "LNG": -117.752273,
+    "City": "Irvine"
+  },
+  {
+    "ZIP": 92603,
+    "LAT": 33.624456,
+    "LNG": -117.781423,
+    "City": "Irvine"
+  },
+  {
+    "ZIP": 92604,
+    "LAT": 33.690715,
+    "LNG": -117.789224,
+    "City": "Irvine"
+  },
+  {
+    "ZIP": 92606,
+    "LAT": 33.705442,
+    "LNG": -117.8236,
+    "City": "Irvine"
+  },
+  {
+    "ZIP": 92612,
+    "LAT": 33.65844,
+    "LNG": -117.826009,
+    "City": "Irvine"
+  },
+  {
+    "ZIP": 92614,
+    "LAT": 33.680302,
+    "LNG": -117.833295,
+    "City": "Irvine"
+  },
+  {
+    "ZIP": 92617,
+    "LAT": 33.642512,
+    "LNG": -117.841688,
+    "City": "Irvine"
+  },
+  {
+    "ZIP": 92618,
+    "LAT": 33.666942,
+    "LNG": -117.732094,
+    "City": "Irvine"
+  },
+  {
+    "ZIP": 92620,
+    "LAT": 33.714796,
+    "LNG": -117.749139,
+    "City": "Irvine"
+  },
+  {
+    "ZIP": 92624,
+    "LAT": 33.451469,
+    "LNG": -117.659056,
+    "City": "Capistrano Beach"
+  },
+  {
+    "ZIP": 92625,
+    "LAT": 33.601966,
+    "LNG": -117.864254,
+    "City": "Corona del Mar"
+  },
+  {
+    "ZIP": 92626,
+    "LAT": 33.679591,
+    "LNG": -117.908531,
+    "City": "Costa Mesa"
+  },
+  {
+    "ZIP": 92627,
+    "LAT": 33.647763,
+    "LNG": -117.919761,
+    "City": "Costa Mesa"
+  },
+  {
+    "ZIP": 92629,
+    "LAT": 33.47512,
+    "LNG": -117.705675,
+    "City": "Dana Point"
+  },
+  {
+    "ZIP": 92630,
+    "LAT": 33.645736,
+    "LNG": -117.685503,
+    "City": "Lake Forest"
+  },
+  {
+    "ZIP": 92637,
+    "LAT": 33.612925,
+    "LNG": -117.731443,
+    "City": "Laguna Woods"
+  },
+  {
+    "ZIP": 92646,
+    "LAT": 33.66205,
+    "LNG": -117.968459,
+    "City": "Huntington Beach"
+  },
+  {
+    "ZIP": 92647,
+    "LAT": 33.723228,
+    "LNG": -118.008692,
+    "City": "Huntington Beach"
+  },
+  {
+    "ZIP": 92648,
+    "LAT": 33.67901,
+    "LNG": -118.014603,
+    "City": "Huntington Beach"
+  },
+  {
+    "ZIP": 92649,
+    "LAT": 33.72524,
+    "LNG": -118.051579,
+    "City": "Huntington Beach"
+  },
+  {
+    "ZIP": 92651,
+    "LAT": 33.57093,
+    "LNG": -117.773042,
+    "City": "Laguna Beach"
+  },
+  {
+    "ZIP": 92653,
+    "LAT": 33.591304,
+    "LNG": -117.697512,
+    "City": "Laguna Hills"
+  },
+  {
+    "ZIP": 92655,
+    "LAT": 33.74513,
+    "LNG": -117.984873,
+    "City": "Midway City"
+  },
+  {
+    "ZIP": 92656,
+    "LAT": 33.576212,
+    "LNG": -117.730368,
+    "City": "Aliso Viejo"
+  },
+  {
+    "ZIP": 92660,
+    "LAT": 33.634626,
+    "LNG": -117.874882,
+    "City": "Newport Beach"
+  },
+  {
+    "ZIP": 92661,
+    "LAT": 33.601984,
+    "LNG": -117.913001,
+    "City": "Newport Beach"
+  },
+  {
+    "ZIP": 92662,
+    "LAT": 33.605086,
+    "LNG": -117.892319,
+    "City": "Newport Beach"
+  },
+  {
+    "ZIP": 92663,
+    "LAT": 33.623208,
+    "LNG": -117.933903,
+    "City": "Newport Beach"
+  },
+  {
+    "ZIP": 92672,
+    "LAT": 33.42411,
+    "LNG": -117.606775,
+    "City": "San Clemente"
+  },
+  {
+    "ZIP": 92673,
+    "LAT": 33.467371,
+    "LNG": -117.613509,
+    "City": "San Clemente"
+  },
+  {
+    "ZIP": 92675,
+    "LAT": 33.50186,
+    "LNG": -117.608646,
+    "City": "San Juan Capistrano"
+  },
+  {
+    "ZIP": 92676,
+    "LAT": 33.752476,
+    "LNG": -117.612554,
+    "City": "Silverado"
+  },
+  {
+    "ZIP": 92677,
+    "LAT": 33.528868,
+    "LNG": -117.701175,
+    "City": "Laguna Niguel"
+  },
+  {
+    "ZIP": 92678,
+    "LAT": 33.680226,
+    "LNG": -117.526144,
+    "City": "Trabuco Canyon"
+  },
+  {
+    "ZIP": 92679,
+    "LAT": 33.606695,
+    "LNG": -117.60436,
+    "City": "Trabuco Canyon"
+  },
+  {
+    "ZIP": 92683,
+    "LAT": 33.752468,
+    "LNG": -117.993933,
+    "City": "Westminster"
+  },
+  {
+    "ZIP": 92688,
+    "LAT": 33.619672,
+    "LNG": -117.612087,
+    "City": "Rancho Santa Margarita"
+  },
+  {
+    "ZIP": 92691,
+    "LAT": 33.611945,
+    "LNG": -117.665867,
+    "City": "Mission Viejo"
+  },
+  {
+    "ZIP": 92692,
+    "LAT": 33.606497,
+    "LNG": -117.643112,
+    "City": "Mission Viejo"
+  },
+  {
+    "ZIP": 92694,
+    "LAT": 33.547238,
+    "LNG": -117.623761,
+    "City": "Ladera Ranch"
+  },
+  {
+    "ZIP": 92701,
+    "LAT": 33.74822,
+    "LNG": -117.858473,
+    "City": "Santa Ana"
+  },
+  {
+    "ZIP": 92703,
+    "LAT": 33.747155,
+    "LNG": -117.907326,
+    "City": "Santa Ana"
+  },
+  {
+    "ZIP": 92704,
+    "LAT": 33.721131,
+    "LNG": -117.90511,
+    "City": "Santa Ana"
+  },
+  {
+    "ZIP": 92705,
+    "LAT": 33.765639,
+    "LNG": -117.790075,
+    "City": "Santa Ana"
+  },
+  {
+    "ZIP": 92706,
+    "LAT": 33.765301,
+    "LNG": -117.881976,
+    "City": "Santa Ana"
+  },
+  {
+    "ZIP": 92707,
+    "LAT": 33.709935,
+    "LNG": -117.870431,
+    "City": "Santa Ana"
+  },
+  {
+    "ZIP": 92708,
+    "LAT": 33.710582,
+    "LNG": -117.951129,
+    "City": "Fountain Valley"
+  },
+  {
+    "ZIP": 92780,
+    "LAT": 33.734005,
+    "LNG": -117.819163,
+    "City": "Tustin"
+  },
+  {
+    "ZIP": 92782,
+    "LAT": 33.739709,
+    "LNG": -117.784703,
+    "City": "Tustin"
+  },
+  {
+    "ZIP": 92801,
+    "LAT": 33.844983,
+    "LNG": -117.952151,
+    "City": "Anaheim"
+  },
+  {
+    "ZIP": 92802,
+    "LAT": 33.808267,
+    "LNG": -117.923658,
+    "City": "Anaheim"
+  },
+  {
+    "ZIP": 92804,
+    "LAT": 33.818246,
+    "LNG": -117.974985,
+    "City": "Anaheim"
+  },
+  {
+    "ZIP": 92805,
+    "LAT": 33.830457,
+    "LNG": -117.905941,
+    "City": "Anaheim"
+  },
+  {
+    "ZIP": 92806,
+    "LAT": 33.83796,
+    "LNG": -117.870494,
+    "City": "Anaheim"
+  },
+  {
+    "ZIP": 92807,
+    "LAT": 33.848733,
+    "LNG": -117.788357,
+    "City": "Anaheim"
+  },
+  {
+    "ZIP": 92808,
+    "LAT": 33.856459,
+    "LNG": -117.740176,
+    "City": "Anaheim"
+  },
+  {
+    "ZIP": 92821,
+    "LAT": 33.927561,
+    "LNG": -117.887086,
+    "City": "Brea"
+  },
+  {
+    "ZIP": 92831,
+    "LAT": 33.879768,
+    "LNG": -117.89634,
+    "City": "Fullerton"
+  },
+  {
+    "ZIP": 92832,
+    "LAT": 33.868649,
+    "LNG": -117.929055,
+    "City": "Fullerton"
+  },
+  {
+    "ZIP": 92833,
+    "LAT": 33.879329,
+    "LNG": -117.961752,
+    "City": "Fullerton"
+  },
+  {
+    "ZIP": 92835,
+    "LAT": 33.901886,
+    "LNG": -117.916639,
+    "City": "Fullerton"
+  },
+  {
+    "ZIP": 92840,
+    "LAT": 33.787165,
+    "LNG": -117.931889,
+    "City": "Garden Grove"
+  },
+  {
+    "ZIP": 92841,
+    "LAT": 33.786846,
+    "LNG": -117.98202,
+    "City": "Garden Grove"
+  },
+  {
+    "ZIP": 92843,
+    "LAT": 33.763905,
+    "LNG": -117.931382,
+    "City": "Garden Grove"
+  },
+  {
+    "ZIP": 92844,
+    "LAT": 33.765471,
+    "LNG": -117.969504,
+    "City": "Garden Grove"
+  },
+  {
+    "ZIP": 92845,
+    "LAT": 33.783064,
+    "LNG": -118.026268,
+    "City": "Garden Grove"
+  },
+  {
+    "ZIP": 92860,
+    "LAT": 33.925519,
+    "LNG": -117.551958,
+    "City": "Norco"
+  },
+  {
+    "ZIP": 92865,
+    "LAT": 33.826393,
+    "LNG": -117.851307,
+    "City": "Orange"
+  },
+  {
+    "ZIP": 92866,
+    "LAT": 33.784615,
+    "LNG": -117.844774,
+    "City": "Orange"
+  },
+  {
+    "ZIP": 92867,
+    "LAT": 33.80098,
+    "LNG": -117.843772,
+    "City": "Orange"
+  },
+  {
+    "ZIP": 92868,
+    "LAT": 33.788145,
+    "LNG": -117.87655,
+    "City": "Orange"
+  },
+  {
+    "ZIP": 92869,
+    "LAT": 33.80845,
+    "LNG": -117.791737,
+    "City": "Orange"
+  },
+  {
+    "ZIP": 92870,
+    "LAT": 33.881158,
+    "LNG": -117.854783,
+    "City": "Placentia"
+  },
+  {
+    "ZIP": 92879,
+    "LAT": 33.882614,
+    "LNG": -117.528204,
+    "City": "Corona"
+  },
+  {
+    "ZIP": 92880,
+    "LAT": 33.925311,
+    "LNG": -117.607297,
+    "City": "Corona"
+  },
+  {
+    "ZIP": 92881,
+    "LAT": 33.827409,
+    "LNG": -117.524128,
+    "City": "Corona"
+  },
+  {
+    "ZIP": 92882,
+    "LAT": 33.840451,
+    "LNG": -117.601961,
+    "City": "Corona"
+  },
+  {
+    "ZIP": 92883,
+    "LAT": 33.748086,
+    "LNG": -117.468037,
+    "City": "Corona"
+  },
+  {
+    "ZIP": 92886,
+    "LAT": 33.896339,
+    "LNG": -117.796416,
+    "City": "Yorba Linda"
+  },
+  {
+    "ZIP": 92887,
+    "LAT": 33.885514,
+    "LNG": -117.730164,
+    "City": "Yorba Linda"
+  },
+  {
+    "ZIP": 93001,
+    "LAT": 34.03734,
+    "LNG": -119.800786,
+    "City": "Ventura"
+  },
+  {
+    "ZIP": 93003,
+    "LAT": 34.283668,
+    "LNG": -119.223196,
+    "City": "Ventura"
+  },
+  {
+    "ZIP": 93004,
+    "LAT": 34.278679,
+    "LNG": -119.165615,
+    "City": "Ventura"
+  },
+  {
+    "ZIP": 93010,
+    "LAT": 34.227892,
+    "LNG": -119.079552,
+    "City": "Camarillo"
+  },
+  {
+    "ZIP": 93012,
+    "LAT": 34.196026,
+    "LNG": -118.992531,
+    "City": "Camarillo"
+  },
+  {
+    "ZIP": 93013,
+    "LAT": 34.44137,
+    "LNG": -119.514092,
+    "City": "Carpinteria"
+  },
+  {
+    "ZIP": 93015,
+    "LAT": 34.404104,
+    "LNG": -118.897776,
+    "City": "Fillmore"
+  },
+  {
+    "ZIP": 93021,
+    "LAT": 34.295652,
+    "LNG": -118.897875,
+    "City": "Moorpark"
+  },
+  {
+    "ZIP": 93022,
+    "LAT": 34.40778,
+    "LNG": -119.306554,
+    "City": "Oak View"
+  },
+  {
+    "ZIP": 93023,
+    "LAT": 34.530199,
+    "LNG": -119.310133,
+    "City": "Ojai"
+  },
+  {
+    "ZIP": 93030,
+    "LAT": 34.205247,
+    "LNG": -119.174092,
+    "City": "Oxnard"
+  },
+  {
+    "ZIP": 93033,
+    "LAT": 34.150212,
+    "LNG": -119.127729,
+    "City": "Oxnard"
+  },
+  {
+    "ZIP": 93035,
+    "LAT": 34.181971,
+    "LNG": -119.224985,
+    "City": "Oxnard"
+  },
+  {
+    "ZIP": 93036,
+    "LAT": 34.238786,
+    "LNG": -119.186492,
+    "City": "Oxnard"
+  },
+  {
+    "ZIP": 93040,
+    "LAT": 34.473884,
+    "LNG": -118.797181,
+    "City": "Piru"
+  },
+  {
+    "ZIP": 93041,
+    "LAT": 34.106896,
+    "LNG": -119.099535,
+    "City": "Port Hueneme"
+  },
+  {
+    "ZIP": 93042,
+    "LAT": 33.255655,
+    "LNG": -119.503588,
+    "City": "Port Hueneme"
+  },
+  {
+    "ZIP": 93043,
+    "LAT": 34.170854,
+    "LNG": -119.202409,
+    "City": "Port Hueneme"
+  },
+  {
+    "ZIP": 93060,
+    "LAT": 34.402343,
+    "LNG": -119.094824,
+    "City": "Santa Paula"
+  },
+  {
+    "ZIP": 93063,
+    "LAT": 34.308729,
+    "LNG": -118.687223,
+    "City": "Simi Valley"
+  },
+  {
+    "ZIP": 93064,
+    "LAT": 34.247556,
+    "LNG": -118.70094,
+    "City": "Simi Valley"
+  },
+  {
+    "ZIP": 93065,
+    "LAT": 34.258405,
+    "LNG": -118.775026,
+    "City": "Simi Valley"
+  },
+  {
+    "ZIP": 93066,
+    "LAT": 34.297699,
+    "LNG": -119.014558,
+    "City": "Somis"
+  },
+  {
+    "ZIP": 93067,
+    "LAT": 34.421964,
+    "LNG": -119.593483,
+    "City": "Summerland"
+  },
+  {
+    "ZIP": 93101,
+    "LAT": 34.418979,
+    "LNG": -119.709166,
+    "City": "Santa Barbara"
+  },
+  {
+    "ZIP": 93103,
+    "LAT": 34.438773,
+    "LNG": -119.678841,
+    "City": "Santa Barbara"
+  },
+  {
+    "ZIP": 93105,
+    "LAT": 34.533222,
+    "LNG": -119.791731,
+    "City": "Santa Barbara"
+  },
+  {
+    "ZIP": 93108,
+    "LAT": 34.448024,
+    "LNG": -119.616984,
+    "City": "Santa Barbara"
+  },
+  {
+    "ZIP": 93109,
+    "LAT": 34.406428,
+    "LNG": -119.726888,
+    "City": "Santa Barbara"
+  },
+  {
+    "ZIP": 93110,
+    "LAT": 34.446201,
+    "LNG": -119.762794,
+    "City": "Santa Barbara"
+  },
+  {
+    "ZIP": 93111,
+    "LAT": 34.449185,
+    "LNG": -119.804782,
+    "City": "Santa Barbara"
+  },
+  {
+    "ZIP": 93117,
+    "LAT": 34.479453,
+    "LNG": -120.084094,
+    "City": "Goleta"
+  },
+  {
+    "ZIP": 93201,
+    "LAT": 35.856859,
+    "LNG": -119.507526,
+    "City": "Earlimart"
+  },
+  {
+    "ZIP": 93202,
+    "LAT": 36.313344,
+    "LNG": -119.708452,
+    "City": "Armona"
+  },
+  {
+    "ZIP": 93203,
+    "LAT": 35.112617,
+    "LNG": -118.832292,
+    "City": "Arvin"
+  },
+  {
+    "ZIP": 93204,
+    "LAT": 35.889811,
+    "LNG": -120.06859,
+    "City": "Avenal"
+  },
+  {
+    "ZIP": 93205,
+    "LAT": 35.518295,
+    "LNG": -118.430032,
+    "City": "Bodfish"
+  },
+  {
+    "ZIP": 93206,
+    "LAT": 35.437302,
+    "LNG": -119.477735,
+    "City": "Buttonwillow"
+  },
+  {
+    "ZIP": 93207,
+    "LAT": 35.889831,
+    "LNG": -118.630592,
+    "City": "California Hot Springs"
+  },
+  {
+    "ZIP": 93208,
+    "LAT": 36.056587,
+    "LNG": -118.568462,
+    "City": "Camp Nelson"
+  },
+  {
+    "ZIP": 93210,
+    "LAT": 36.197785,
+    "LNG": -120.422249,
+    "City": "Coalinga"
+  },
+  {
+    "ZIP": 93212,
+    "LAT": 36.042151,
+    "LNG": -119.5277,
+    "City": "Corcoran"
+  },
+  {
+    "ZIP": 93215,
+    "LAT": 35.779507,
+    "LNG": -119.200825,
+    "City": "Delano"
+  },
+  {
+    "ZIP": 93218,
+    "LAT": 35.860883,
+    "LNG": -119.03614,
+    "City": "Ducor"
+  },
+  {
+    "ZIP": 93219,
+    "LAT": 35.873666,
+    "LNG": -119.281551,
+    "City": "Earlimart"
+  },
+  {
+    "ZIP": 93220,
+    "LAT": 35.403611,
+    "LNG": -118.756525,
+    "City": "Bakersfield"
+  },
+  {
+    "ZIP": 93221,
+    "LAT": 36.295014,
+    "LNG": -119.026031,
+    "City": "Exeter"
+  },
+  {
+    "ZIP": 93222,
+    "LAT": 34.842425,
+    "LNG": -119.203723,
+    "City": "Pine Mountain Club"
+  },
+  {
+    "ZIP": 93223,
+    "LAT": 36.304539,
+    "LNG": -119.204896,
+    "City": "Farmersville"
+  },
+  {
+    "ZIP": 93224,
+    "LAT": 35.228199,
+    "LNG": -119.569304,
+    "City": "Fellows"
+  },
+  {
+    "ZIP": 93225,
+    "LAT": 34.768503,
+    "LNG": -119.030293,
+    "City": "Frazier Park"
+  },
+  {
+    "ZIP": 93226,
+    "LAT": 35.735652,
+    "LNG": -118.738373,
+    "City": "Glennville"
+  },
+  {
+    "ZIP": 93230,
+    "LAT": 36.29223,
+    "LNG": -119.622676,
+    "City": "Hanford"
+  },
+  {
+    "ZIP": 93234,
+    "LAT": 36.191268,
+    "LNG": -120.090097,
+    "City": "Huron"
+  },
+  {
+    "ZIP": 93235,
+    "LAT": 36.389827,
+    "LNG": -119.219896,
+    "City": "Ivanhoe"
+  },
+  {
+    "ZIP": 93238,
+    "LAT": 35.729116,
+    "LNG": -118.391888,
+    "City": "Kernville (former town)"
+  },
+  {
+    "ZIP": 93239,
+    "LAT": 36.04719,
+    "LNG": -119.990217,
+    "City": "Kettleman City"
+  },
+  {
+    "ZIP": 93240,
+    "LAT": 35.617546,
+    "LNG": -118.452285,
+    "City": "Lake Isabella"
+  },
+  {
+    "ZIP": 93241,
+    "LAT": 35.254701,
+    "LNG": -118.912678,
+    "City": "Lamont"
+  },
+  {
+    "ZIP": 93242,
+    "LAT": 36.442077,
+    "LNG": -119.727734,
+    "City": "Laton"
+  },
+  {
+    "ZIP": 93244,
+    "LAT": 36.488656,
+    "LNG": -118.998043,
+    "City": "Lemon Cove"
+  },
+  {
+    "ZIP": 93245,
+    "LAT": 36.29227,
+    "LNG": -119.829463,
+    "City": "Lemoore"
+  },
+  {
+    "ZIP": 93247,
+    "LAT": 36.206269,
+    "LNG": -119.071075,
+    "City": "Lindsay"
+  },
+  {
+    "ZIP": 93249,
+    "LAT": 35.621706,
+    "LNG": -119.887939,
+    "City": "Lost Hills"
+  },
+  {
+    "ZIP": 93250,
+    "LAT": 35.665082,
+    "LNG": -119.197958,
+    "City": "McFarland"
+  },
+  {
+    "ZIP": 93251,
+    "LAT": 35.335636,
+    "LNG": -119.758248,
+    "City": "McKittrick"
+  },
+  {
+    "ZIP": 93252,
+    "LAT": 34.710034,
+    "LNG": -119.243808,
+    "City": "Maricopa"
+  },
+  {
+    "ZIP": 93254,
+    "LAT": 34.966867,
+    "LNG": -119.810433,
+    "City": "New Cuyama"
+  },
+  {
+    "ZIP": 93255,
+    "LAT": 35.67733,
+    "LNG": -118.101417,
+    "City": "Onyx"
+  },
+  {
+    "ZIP": 93256,
+    "LAT": 35.960636,
+    "LNG": -119.312992,
+    "City": "Pixley"
+  },
+  {
+    "ZIP": 93257,
+    "LAT": 35.988087,
+    "LNG": -118.860221,
+    "City": "Porterville"
+  },
+  {
+    "ZIP": 93258,
+    "LAT": 36.05438,
+    "LNG": -119.150397,
+    "City": "Porterville"
+  },
+  {
+    "ZIP": 93260,
+    "LAT": 35.817247,
+    "LNG": -118.669124,
+    "City": "Posey"
+  },
+  {
+    "ZIP": 93261,
+    "LAT": 35.808535,
+    "LNG": -119.128083,
+    "City": "Earlimart"
+  },
+  {
+    "ZIP": 93262,
+    "LAT": 36.615624,
+    "LNG": -118.697574,
+    "City": "Woodlake"
+  },
+  {
+    "ZIP": 93263,
+    "LAT": 35.492805,
+    "LNG": -119.286861,
+    "City": "Shafter"
+  },
+  {
+    "ZIP": 93265,
+    "LAT": 36.245404,
+    "LNG": -118.693313,
+    "City": "Springville"
+  },
+  {
+    "ZIP": 93266,
+    "LAT": 36.145394,
+    "LNG": -119.867288,
+    "City": "Stratford"
+  },
+  {
+    "ZIP": 93267,
+    "LAT": 36.15118,
+    "LNG": -119.049222,
+    "City": "Strathmore"
+  },
+  {
+    "ZIP": 93268,
+    "LAT": 35.162393,
+    "LNG": -119.425116,
+    "City": "Taft"
+  },
+  {
+    "ZIP": 93270,
+    "LAT": 35.952426,
+    "LNG": -119.072843,
+    "City": "Terra Bella"
+  },
+  {
+    "ZIP": 93271,
+    "LAT": 36.469275,
+    "LNG": -118.800919,
+    "City": "Three Rivers"
+  },
+  {
+    "ZIP": 93272,
+    "LAT": 36.047414,
+    "LNG": -119.344304,
+    "City": "Tipton"
+  },
+  {
+    "ZIP": 93274,
+    "LAT": 36.178091,
+    "LNG": -119.370752,
+    "City": "Tulare"
+  },
+  {
+    "ZIP": 93276,
+    "LAT": 35.299176,
+    "LNG": -119.358368,
+    "City": "Tupman"
+  },
+  {
+    "ZIP": 93277,
+    "LAT": 36.301334,
+    "LNG": -119.372586,
+    "City": "Visalia"
+  },
+  {
+    "ZIP": 93280,
+    "LAT": 35.652242,
+    "LNG": -119.4464,
+    "City": "Wasco"
+  },
+  {
+    "ZIP": 93283,
+    "LAT": 35.592099,
+    "LNG": -118.297698,
+    "City": "Weldon"
+  },
+  {
+    "ZIP": 93285,
+    "LAT": 35.715258,
+    "LNG": -118.507027,
+    "City": "Wofford Heights"
+  },
+  {
+    "ZIP": 93286,
+    "LAT": 36.46271,
+    "LNG": -119.093242,
+    "City": "Woodlake"
+  },
+  {
+    "ZIP": 93287,
+    "LAT": 35.757886,
+    "LNG": -118.988161,
+    "City": "Woody"
+  },
+  {
+    "ZIP": 93291,
+    "LAT": 36.391777,
+    "LNG": -119.372842,
+    "City": "Visalia"
+  },
+  {
+    "ZIP": 93292,
+    "LAT": 36.37559,
+    "LNG": -119.211689,
+    "City": "Visalia"
+  },
+  {
+    "ZIP": 93301,
+    "LAT": 35.384336,
+    "LNG": -119.020562,
+    "City": "Bakersfield"
+  },
+  {
+    "ZIP": 93304,
+    "LAT": 35.339702,
+    "LNG": -119.023451,
+    "City": "Bakersfield"
+  },
+  {
+    "ZIP": 93305,
+    "LAT": 35.389749,
+    "LNG": -118.985186,
+    "City": "Bakersfield"
+  },
+  {
+    "ZIP": 93306,
+    "LAT": 35.468183,
+    "LNG": -118.779649,
+    "City": "Bakersfield"
+  },
+  {
+    "ZIP": 93307,
+    "LAT": 35.24512,
+    "LNG": -118.9411,
+    "City": "Bakersfield"
+  },
+  {
+    "ZIP": 93308,
+    "LAT": 35.621087,
+    "LNG": -118.789677,
+    "City": "Bakersfield"
+  },
+  {
+    "ZIP": 93309,
+    "LAT": 35.342891,
+    "LNG": -119.064803,
+    "City": "Bakersfield"
+  },
+  {
+    "ZIP": 93311,
+    "LAT": 35.192404,
+    "LNG": -119.175866,
+    "City": "Bakersfield"
+  },
+  {
+    "ZIP": 93312,
+    "LAT": 35.393478,
+    "LNG": -119.12046,
+    "City": "Bakersfield"
+  },
+  {
+    "ZIP": 93313,
+    "LAT": 35.16319,
+    "LNG": -119.046322,
+    "City": "Bakersfield"
+  },
+  {
+    "ZIP": 93314,
+    "LAT": 35.393866,
+    "LNG": -119.244846,
+    "City": "Bakersfield"
+  },
+  {
+    "ZIP": 93401,
+    "LAT": 35.23575,
+    "LNG": -120.615973,
+    "City": "San Luis Obispo"
+  },
+  {
+    "ZIP": 93402,
+    "LAT": 35.295232,
+    "LNG": -120.835468,
+    "City": "Los Osos"
+  },
+  {
+    "ZIP": 93405,
+    "LAT": 35.296958,
+    "LNG": -120.733134,
+    "City": "San Luis Obispo"
+  },
+  {
+    "ZIP": 93410,
+    "LAT": 35.3012,
+    "LNG": -120.660937,
+    "City": "San Luis Obispo"
+  },
+  {
+    "ZIP": 93420,
+    "LAT": 35.176043,
+    "LNG": -120.476694,
+    "City": "Arroyo Grande"
+  },
+  {
+    "ZIP": 93422,
+    "LAT": 35.463544,
+    "LNG": -120.692911,
+    "City": "Atascadero"
+  },
+  {
+    "ZIP": 93424,
+    "LAT": 35.185911,
+    "LNG": -120.731793,
+    "City": "Avila Beach"
+  },
+  {
+    "ZIP": 93426,
+    "LAT": 35.848621,
+    "LNG": -120.938911,
+    "City": "Bradley"
+  },
+  {
+    "ZIP": 93427,
+    "LAT": 34.610436,
+    "LNG": -120.219523,
+    "City": "Buellton"
+  },
+  {
+    "ZIP": 93428,
+    "LAT": 35.585018,
+    "LNG": -121.041461,
+    "City": "Cambria"
+  },
+  {
+    "ZIP": 93429,
+    "LAT": 34.867662,
+    "LNG": -120.539904,
+    "City": "Casmalia"
+  },
+  {
+    "ZIP": 93430,
+    "LAT": 35.484966,
+    "LNG": -120.944417,
+    "City": "Cayucos"
+  },
+  {
+    "ZIP": 93432,
+    "LAT": 35.486805,
+    "LNG": -120.485271,
+    "City": "Creston"
+  },
+  {
+    "ZIP": 93433,
+    "LAT": 35.120888,
+    "LNG": -120.619664,
+    "City": "Grover Beach"
+  },
+  {
+    "ZIP": 93434,
+    "LAT": 34.919894,
+    "LNG": -120.604969,
+    "City": "Guadalupe"
+  },
+  {
+    "ZIP": 93436,
+    "LAT": 34.595669,
+    "LNG": -120.352667,
+    "City": "Lompoc"
+  },
+  {
+    "ZIP": 93437,
+    "LAT": 34.737964,
+    "LNG": -120.543739,
+    "City": "Lompoc"
+  },
+  {
+    "ZIP": 93440,
+    "LAT": 34.712216,
+    "LNG": -120.230146,
+    "City": "Los Alamos"
+  },
+  {
+    "ZIP": 93441,
+    "LAT": 34.770605,
+    "LNG": -119.985205,
+    "City": "Los Olivos"
+  },
+  {
+    "ZIP": 93442,
+    "LAT": 35.401934,
+    "LNG": -120.799362,
+    "City": "Morro Bay"
+  },
+  {
+    "ZIP": 93444,
+    "LAT": 35.037198,
+    "LNG": -120.504593,
+    "City": "Nipomo"
+  },
+  {
+    "ZIP": 93445,
+    "LAT": 35.044396,
+    "LNG": -120.620199,
+    "City": "Oceano"
+  },
+  {
+    "ZIP": 93446,
+    "LAT": 35.662509,
+    "LNG": -120.749865,
+    "City": "Paso Robles"
+  },
+  {
+    "ZIP": 93449,
+    "LAT": 35.165671,
+    "LNG": -120.655844,
+    "City": "Pismo Beach"
+  },
+  {
+    "ZIP": 93450,
+    "LAT": 36.085423,
+    "LNG": -120.818522,
+    "City": "San Ardo"
+  },
+  {
+    "ZIP": 93452,
+    "LAT": 35.746484,
+    "LNG": -121.223355,
+    "City": "San Simeon"
+  },
+  {
+    "ZIP": 93453,
+    "LAT": 35.303925,
+    "LNG": -120.256566,
+    "City": "Santa Margarita"
+  },
+  {
+    "ZIP": 93454,
+    "LAT": 34.923013,
+    "LNG": -120.259463,
+    "City": "Santa Maria"
+  },
+  {
+    "ZIP": 93455,
+    "LAT": 34.831792,
+    "LNG": -120.433509,
+    "City": "Santa Maria"
+  },
+  {
+    "ZIP": 93458,
+    "LAT": 34.95934,
+    "LNG": -120.490081,
+    "City": "Santa Maria"
+  },
+  {
+    "ZIP": 93460,
+    "LAT": 34.653533,
+    "LNG": -120.007153,
+    "City": "Santa Ynez"
+  },
+  {
+    "ZIP": 93461,
+    "LAT": 35.652911,
+    "LNG": -120.266428,
+    "City": "Shandon"
+  },
+  {
+    "ZIP": 93463,
+    "LAT": 34.624395,
+    "LNG": -120.137875,
+    "City": "Solvang"
+  },
+  {
+    "ZIP": 93465,
+    "LAT": 35.538809,
+    "LNG": -120.739893,
+    "City": "Templeton"
+  },
+  {
+    "ZIP": 93501,
+    "LAT": 35.067111,
+    "LNG": -118.184941,
+    "City": "Mojave"
+  },
+  {
+    "ZIP": 93505,
+    "LAT": 35.16374,
+    "LNG": -117.886527,
+    "City": "California City"
+  },
+  {
+    "ZIP": 93510,
+    "LAT": 34.450906,
+    "LNG": -118.227614,
+    "City": "Acton"
+  },
+  {
+    "ZIP": 93512,
+    "LAT": 37.891866,
+    "LNG": -118.554569,
+    "City": "Benton"
+  },
+  {
+    "ZIP": 93513,
+    "LAT": 37.131989,
+    "LNG": -118.15588,
+    "City": "Big Pine"
+  },
+  {
+    "ZIP": 93514,
+    "LAT": 37.492115,
+    "LNG": -118.390408,
+    "City": "Bishop"
+  },
+  {
+    "ZIP": 93516,
+    "LAT": 35.002282,
+    "LNG": -117.629941,
+    "City": "Boron"
+  },
+  {
+    "ZIP": 93517,
+    "LAT": 38.281108,
+    "LNG": -119.384449,
+    "City": "Bridgeport"
+  },
+  {
+    "ZIP": 93518,
+    "LAT": 35.385111,
+    "LNG": -118.491168,
+    "City": "Caliente"
+  },
+  {
+    "ZIP": 93519,
+    "LAT": 35.294349,
+    "LNG": -117.925785,
+    "City": "Cantil"
+  },
+  {
+    "ZIP": 93522,
+    "LAT": 36.316298,
+    "LNG": -117.592333,
+    "City": "Ridgecrest"
+  },
+  {
+    "ZIP": 93523,
+    "LAT": 34.957206,
+    "LNG": -117.827391,
+    "City": "Edwards"
+  },
+  {
+    "ZIP": 93524,
+    "LAT": 34.931987,
+    "LNG": -117.907127,
+    "City": "Edwards"
+  },
+  {
+    "ZIP": 93526,
+    "LAT": 36.823834,
+    "LNG": -118.281246,
+    "City": "Independence"
+  },
+  {
+    "ZIP": 93527,
+    "LAT": 36.119622,
+    "LNG": -118.177124,
+    "City": "Inyokern"
+  },
+  {
+    "ZIP": 93528,
+    "LAT": 35.371604,
+    "LNG": -117.643321,
+    "City": "Johannesburg"
+  },
+  {
+    "ZIP": 93529,
+    "LAT": 37.815507,
+    "LNG": -119.095647,
+    "City": "June Lake"
+  },
+  {
+    "ZIP": 93530,
+    "LAT": 36.47583,
+    "LNG": -117.860116,
+    "City": "Lone Pine"
+  },
+  {
+    "ZIP": 93531,
+    "LAT": 35.221906,
+    "LNG": -118.582566,
+    "City": "Keene"
+  },
+  {
+    "ZIP": 93534,
+    "LAT": 34.713292,
+    "LNG": -118.15292,
+    "City": "Lancaster"
+  },
+  {
+    "ZIP": 93535,
+    "LAT": 34.713656,
+    "LNG": -117.86466,
+    "City": "Lancaster"
+  },
+  {
+    "ZIP": 93536,
+    "LAT": 34.74739,
+    "LNG": -118.369249,
+    "City": "Lancaster"
+  },
+  {
+    "ZIP": 93541,
+    "LAT": 37.988074,
+    "LNG": -119.114386,
+    "City": "Lee Vining"
+  },
+  {
+    "ZIP": 93543,
+    "LAT": 34.481108,
+    "LNG": -117.982006,
+    "City": "Littlerock"
+  },
+  {
+    "ZIP": 93544,
+    "LAT": 34.495537,
+    "LNG": -117.756645,
+    "City": "Llano"
+  },
+  {
+    "ZIP": 93545,
+    "LAT": 36.556387,
+    "LNG": -118.054221,
+    "City": "Lone Pine"
+  },
+  {
+    "ZIP": 93546,
+    "LAT": 37.548799,
+    "LNG": -118.839818,
+    "City": "Mammoth Lakes"
+  },
+  {
+    "ZIP": 93549,
+    "LAT": 36.212203,
+    "LNG": -117.948532,
+    "City": "Olancha"
+  },
+  {
+    "ZIP": 93550,
+    "LAT": 34.408548,
+    "LNG": -118.123592,
+    "City": "Palmdale"
+  },
+  {
+    "ZIP": 93551,
+    "LAT": 34.604105,
+    "LNG": -118.239213,
+    "City": "Palmdale"
+  },
+  {
+    "ZIP": 93552,
+    "LAT": 34.570867,
+    "LNG": -118.023744,
+    "City": "Palmdale"
+  },
+  {
+    "ZIP": 93553,
+    "LAT": 34.407332,
+    "LNG": -117.911841,
+    "City": "Pearblossom"
+  },
+  {
+    "ZIP": 93554,
+    "LAT": 35.413944,
+    "LNG": -117.764333,
+    "City": "Randsburg"
+  },
+  {
+    "ZIP": 93555,
+    "LAT": 35.606509,
+    "LNG": -117.683472,
+    "City": "Ridgecrest"
+  },
+  {
+    "ZIP": 93558,
+    "LAT": 35.347928,
+    "LNG": -117.621393,
+    "City": "Red Mountain"
+  },
+  {
+    "ZIP": 93560,
+    "LAT": 34.866894,
+    "LNG": -118.339832,
+    "City": "Rosamond"
+  },
+  {
+    "ZIP": 93561,
+    "LAT": 35.118772,
+    "LNG": -118.493811,
+    "City": "Tehachapi"
+  },
+  {
+    "ZIP": 93562,
+    "LAT": 35.746463,
+    "LNG": -117.386604,
+    "City": "Trona, Inyo County, California"
+  },
+  {
+    "ZIP": 93563,
+    "LAT": 34.402521,
+    "LNG": -117.766066,
+    "City": "Valyermo"
+  },
+  {
+    "ZIP": 93591,
+    "LAT": 34.59448,
+    "LNG": -117.813666,
+    "City": "Palmdale"
+  },
+  {
+    "ZIP": 93592,
+    "LAT": 35.852815,
+    "LNG": -117.224709,
+    "City": "Trona, Inyo County, California"
+  },
+  {
+    "ZIP": 93601,
+    "LAT": 37.393471,
+    "LNG": -119.741037,
+    "City": "Ahwahnee"
+  },
+  {
+    "ZIP": 93602,
+    "LAT": 37.028835,
+    "LNG": -119.316654,
+    "City": "Auberry"
+  },
+  {
+    "ZIP": 93603,
+    "LAT": 36.622507,
+    "LNG": -118.957187,
+    "City": "Badger"
+  },
+  {
+    "ZIP": 93604,
+    "LAT": 37.344149,
+    "LNG": -119.422139,
+    "City": "Bass Lake"
+  },
+  {
+    "ZIP": 93605,
+    "LAT": 37.203158,
+    "LNG": -119.249243,
+    "City": "Shaver Lake"
+  },
+  {
+    "ZIP": 93606,
+    "LAT": 36.803197,
+    "LNG": -120.018564,
+    "City": "Fresno"
+  },
+  {
+    "ZIP": 93608,
+    "LAT": 36.492478,
+    "LNG": -120.355526,
+    "City": "Cantua Creek"
+  },
+  {
+    "ZIP": 93609,
+    "LAT": 36.526597,
+    "LNG": -119.864103,
+    "City": "Caruthers"
+  },
+  {
+    "ZIP": 93610,
+    "LAT": 37.098303,
+    "LNG": -120.281212,
+    "City": "Chowchilla"
+  },
+  {
+    "ZIP": 93611,
+    "LAT": 36.825296,
+    "LNG": -119.68019,
+    "City": "Clovis"
+  },
+  {
+    "ZIP": 93612,
+    "LAT": 36.814864,
+    "LNG": -119.710596,
+    "City": "Clovis"
+  },
+  {
+    "ZIP": 93614,
+    "LAT": 37.209821,
+    "LNG": -119.749802,
+    "City": "Coarsegold"
+  },
+  {
+    "ZIP": 93615,
+    "LAT": 36.503322,
+    "LNG": -119.286328,
+    "City": "Cutler"
+  },
+  {
+    "ZIP": 93616,
+    "LAT": 36.655353,
+    "LNG": -119.593861,
+    "City": "Del Rey"
+  },
+  {
+    "ZIP": 93618,
+    "LAT": 36.521012,
+    "LNG": -119.389446,
+    "City": "Dinuba"
+  },
+  {
+    "ZIP": 93619,
+    "LAT": 36.917573,
+    "LNG": -119.593481,
+    "City": "Clovis"
+  },
+  {
+    "ZIP": 93620,
+    "LAT": 37.020043,
+    "LNG": -120.625404,
+    "City": "Dos Palos"
+  },
+  {
+    "ZIP": 93621,
+    "LAT": 36.789273,
+    "LNG": -119.140345,
+    "City": "Dunlap"
+  },
+  {
+    "ZIP": 93622,
+    "LAT": 36.814503,
+    "LNG": -120.57524,
+    "City": "Firebaugh"
+  },
+  {
+    "ZIP": 93623,
+    "LAT": 37.494877,
+    "LNG": -119.64428,
+    "City": "Fish Camp"
+  },
+  {
+    "ZIP": 93624,
+    "LAT": 36.378434,
+    "LNG": -120.116591,
+    "City": "Huron"
+  },
+  {
+    "ZIP": 93625,
+    "LAT": 36.624539,
+    "LNG": -119.671874,
+    "City": "Fowler"
+  },
+  {
+    "ZIP": 93626,
+    "LAT": 37.043286,
+    "LNG": -119.691306,
+    "City": "Friant"
+  },
+  {
+    "ZIP": 93627,
+    "LAT": 36.474404,
+    "LNG": -120.061497,
+    "City": "Helm"
+  },
+  {
+    "ZIP": 93628,
+    "LAT": 36.772382,
+    "LNG": -118.935666,
+    "City": "Hume"
+  },
+  {
+    "ZIP": 93630,
+    "LAT": 36.72725,
+    "LNG": -120.123426,
+    "City": "Kerman"
+  },
+  {
+    "ZIP": 93631,
+    "LAT": 36.478239,
+    "LNG": -119.52137,
+    "City": "Kingsburg"
+  },
+  {
+    "ZIP": 93634,
+    "LAT": 37.22358,
+    "LNG": -119.000834,
+    "City": "Lakeshore"
+  },
+  {
+    "ZIP": 93635,
+    "LAT": 37.068068,
+    "LNG": -120.843579,
+    "City": "Los Banos"
+  },
+  {
+    "ZIP": 93636,
+    "LAT": 36.984885,
+    "LNG": -119.873914,
+    "City": "Madera"
+  },
+  {
+    "ZIP": 93637,
+    "LAT": 36.918079,
+    "LNG": -120.185933,
+    "City": "Madera"
+  },
+  {
+    "ZIP": 93638,
+    "LAT": 37.043434,
+    "LNG": -120.033693,
+    "City": "Madera"
+  },
+  {
+    "ZIP": 93640,
+    "LAT": 36.672683,
+    "LNG": -120.446521,
+    "City": "Mendota"
+  },
+  {
+    "ZIP": 93641,
+    "LAT": 36.69718,
+    "LNG": -119.022995,
+    "City": "Miramonte"
+  },
+  {
+    "ZIP": 93643,
+    "LAT": 37.224696,
+    "LNG": -119.470738,
+    "City": "North Fork"
+  },
+  {
+    "ZIP": 93644,
+    "LAT": 37.377787,
+    "LNG": -119.632385,
+    "City": "Oakhurst"
+  },
+  {
+    "ZIP": 93646,
+    "LAT": 36.644737,
+    "LNG": -119.289181,
+    "City": "Orange Cove"
+  },
+  {
+    "ZIP": 93647,
+    "LAT": 36.60076,
+    "LNG": -119.175485,
+    "City": "Orosi"
+  },
+  {
+    "ZIP": 93648,
+    "LAT": 36.620634,
+    "LNG": -119.520731,
+    "City": "Parlier"
+  },
+  {
+    "ZIP": 93650,
+    "LAT": 36.840813,
+    "LNG": -119.799812,
+    "City": "Fresno"
+  },
+  {
+    "ZIP": 93651,
+    "LAT": 36.999336,
+    "LNG": -119.518794,
+    "City": "Prather"
+  },
+  {
+    "ZIP": 93652,
+    "LAT": 36.595012,
+    "LNG": -119.904577,
+    "City": "Raisin City"
+  },
+  {
+    "ZIP": 93653,
+    "LAT": 37.248335,
+    "LNG": -119.944935,
+    "City": "Raymond"
+  },
+  {
+    "ZIP": 93654,
+    "LAT": 36.658709,
+    "LNG": -119.401274,
+    "City": "Reedley"
+  },
+  {
+    "ZIP": 93656,
+    "LAT": 36.450225,
+    "LNG": -119.934478,
+    "City": "Riverdale"
+  },
+  {
+    "ZIP": 93657,
+    "LAT": 36.817791,
+    "LNG": -119.457602,
+    "City": "Sanger"
+  },
+  {
+    "ZIP": 93660,
+    "LAT": 36.585446,
+    "LNG": -120.173897,
+    "City": "San Joaquin"
+  },
+  {
+    "ZIP": 93662,
+    "LAT": 36.536573,
+    "LNG": -119.638651,
+    "City": "Selma"
+  },
+  {
+    "ZIP": 93664,
+    "LAT": 37.129364,
+    "LNG": -119.219563,
+    "City": "Shaver Lake"
+  },
+  {
+    "ZIP": 93665,
+    "LAT": 36.960108,
+    "LNG": -120.64806,
+    "City": "Dos Palos"
+  },
+  {
+    "ZIP": 93666,
+    "LAT": 36.547067,
+    "LNG": -119.335641,
+    "City": "Dinuba"
+  },
+  {
+    "ZIP": 93667,
+    "LAT": 36.95594,
+    "LNG": -119.335294,
+    "City": "Tollhouse"
+  },
+  {
+    "ZIP": 93668,
+    "LAT": 36.650275,
+    "LNG": -120.284085,
+    "City": "Tranquillity"
+  },
+  {
+    "ZIP": 93669,
+    "LAT": 37.290563,
+    "LNG": -119.548406,
+    "City": "Wishon, California"
+  },
+  {
+    "ZIP": 93673,
+    "LAT": 36.452697,
+    "LNG": -119.482343,
+    "City": "Kingsburg"
+  },
+  {
+    "ZIP": 93675,
+    "LAT": 36.724723,
+    "LNG": -119.192779,
+    "City": "Squaw Valley"
+  },
+  {
+    "ZIP": 93701,
+    "LAT": 36.749661,
+    "LNG": -119.787685,
+    "City": "Fresno"
+  },
+  {
+    "ZIP": 93702,
+    "LAT": 36.739194,
+    "LNG": -119.753933,
+    "City": "Fresno"
+  },
+  {
+    "ZIP": 93703,
+    "LAT": 36.76886,
+    "LNG": -119.762393,
+    "City": "Fresno"
+  },
+  {
+    "ZIP": 93704,
+    "LAT": 36.799054,
+    "LNG": -119.801608,
+    "City": "Fresno"
+  },
+  {
+    "ZIP": 93705,
+    "LAT": 36.786671,
+    "LNG": -119.828335,
+    "City": "Fresno"
+  },
+  {
+    "ZIP": 93706,
+    "LAT": 36.652065,
+    "LNG": -119.906591,
+    "City": "Fresno"
+  },
+  {
+    "ZIP": 93710,
+    "LAT": 36.822349,
+    "LNG": -119.760243,
+    "City": "Fresno"
+  },
+  {
+    "ZIP": 93711,
+    "LAT": 36.834289,
+    "LNG": -119.83335,
+    "City": "Fresno"
+  },
+  {
+    "ZIP": 93720,
+    "LAT": 36.862209,
+    "LNG": -119.760793,
+    "City": "Fresno"
+  },
+  {
+    "ZIP": 93721,
+    "LAT": 36.732891,
+    "LNG": -119.783739,
+    "City": "Fresno"
+  },
+  {
+    "ZIP": 93722,
+    "LAT": 36.799361,
+    "LNG": -119.874794,
+    "City": "Fresno"
+  },
+  {
+    "ZIP": 93723,
+    "LAT": 36.793477,
+    "LNG": -119.956818,
+    "City": "Fresno"
+  },
+  {
+    "ZIP": 93725,
+    "LAT": 36.627211,
+    "LNG": -119.731888,
+    "City": "Fresno"
+  },
+  {
+    "ZIP": 93726,
+    "LAT": 36.793661,
+    "LNG": -119.761461,
+    "City": "Fresno"
+  },
+  {
+    "ZIP": 93727,
+    "LAT": 36.751519,
+    "LNG": -119.680602,
+    "City": "Fresno"
+  },
+  {
+    "ZIP": 93728,
+    "LAT": 36.757294,
+    "LNG": -119.818488,
+    "City": "Fresno"
+  },
+  {
+    "ZIP": 93730,
+    "LAT": 36.905389,
+    "LNG": -119.748632,
+    "City": "Fresno"
+  },
+  {
+    "ZIP": 93901,
+    "LAT": 36.636344,
+    "LNG": -121.623978,
+    "City": "Salinas"
+  },
+  {
+    "ZIP": 93906,
+    "LAT": 36.722714,
+    "LNG": -121.633649,
+    "City": "Salinas"
+  },
+  {
+    "ZIP": 93907,
+    "LAT": 36.769389,
+    "LNG": -121.667532,
+    "City": "Salinas"
+  },
+  {
+    "ZIP": 93908,
+    "LAT": 36.651745,
+    "LNG": -121.599444,
+    "City": "Salinas"
+  },
+  {
+    "ZIP": 93921,
+    "LAT": 36.553175,
+    "LNG": -121.92396,
+    "City": "Carmel-by-the-Sea"
+  },
+  {
+    "ZIP": 93923,
+    "LAT": 36.448672,
+    "LNG": -121.849502,
+    "City": "Carmel-by-the-Sea"
+  },
+  {
+    "ZIP": 93925,
+    "LAT": 36.588003,
+    "LNG": -121.398912,
+    "City": "Chualar"
+  },
+  {
+    "ZIP": 93926,
+    "LAT": 36.52587,
+    "LNG": -121.396735,
+    "City": "Gonzales"
+  },
+  {
+    "ZIP": 93927,
+    "LAT": 36.248797,
+    "LNG": -121.386631,
+    "City": "Greenfield"
+  },
+  {
+    "ZIP": 93928,
+    "LAT": 36.038868,
+    "LNG": -121.244009,
+    "City": "Lockwood"
+  },
+  {
+    "ZIP": 93930,
+    "LAT": 36.20506,
+    "LNG": -121.010363,
+    "City": "King City"
+  },
+  {
+    "ZIP": 93932,
+    "LAT": 35.989792,
+    "LNG": -121.055933,
+    "City": "Lockwood"
+  },
+  {
+    "ZIP": 93933,
+    "LAT": 36.686845,
+    "LNG": -121.786887,
+    "City": "Marina"
+  },
+  {
+    "ZIP": 93940,
+    "LAT": 36.57469,
+    "LNG": -121.840854,
+    "City": "Monterey"
+  },
+  {
+    "ZIP": 93943,
+    "LAT": 36.597004,
+    "LNG": -121.874136,
+    "City": "Monterey"
+  },
+  {
+    "ZIP": 93950,
+    "LAT": 36.621181,
+    "LNG": -121.925179,
+    "City": "Pacific Grove"
+  },
+  {
+    "ZIP": 93953,
+    "LAT": 36.585219,
+    "LNG": -121.945282,
+    "City": "Pebble Beach"
+  },
+  {
+    "ZIP": 93954,
+    "LAT": 36.133362,
+    "LNG": -120.928512,
+    "City": "San Lucas"
+  },
+  {
+    "ZIP": 93955,
+    "LAT": 36.61441,
+    "LNG": -121.786901,
+    "City": "Seaside"
+  },
+  {
+    "ZIP": 93960,
+    "LAT": 36.389618,
+    "LNG": -121.343146,
+    "City": "Soledad"
+  },
+  {
+    "ZIP": 93962,
+    "LAT": 36.624716,
+    "LNG": -121.646487,
+    "City": "Spreckels"
+  }
+]
